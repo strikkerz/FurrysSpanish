@@ -1,0 +1,10 @@
+# Windows files
+Thumbs.db
+desktop.ini
+
+# IDE/Editor files
+.vs/
+.vscode/
+*.suo
+*.user
+*.sln.docstates
