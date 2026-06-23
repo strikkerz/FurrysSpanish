@@ -1,326 +1,69 @@
 [
-    {
-        "ranks": [
-            "Banner1"
-        ],
-        "users": [
-            "Chaos Spectrum",
-            "Danny_504",
-            "Dios Carmesi",
-            "GALEON10 d7d9",
-            "GideonToffu",
-            "Kunniin",
-            "Lettersmood 5358",
-            "MarlonQC",
-            "Miizuho-",
-            "MotherAsmodeus",
-            "Nath Kohai",
-            "NicaGhost",
-            "NΛΣŁ",
-            "Phantom Reizack",
-            "RuzuChan",
-            "S K Ÿ E",
-            "SilverFenris",
-            "SkateJapo",
-            "StreetLove?",
-            "Tostadita_Azul",
-            "Underharley",
-            "VaKass",
-            "Warm®",
-            "WolfDaver",
-            "Yukι-Nαgαto",
-            "Yutaura",
-            "Zoraft",
-            "ikerreki231",
-            "innari",
-            "izayoiiiisan",
-            "marixxa",
-            "nyxntx",
-            "poisonliz",
-            "tori_cole",
-            "ºALEXIS---XD-º",
-            "ღFLAREBEASTღ",
-            "ᴇᴛᴀᴅɪʟᴀᴠ",
-            "ᴇᴛᴀᴅɪʟᴀᴠ4500-",
-            "ᴜѕᴀɢɪᴠʀ",
-            "『ϟsxϟ』ツ",
-            "バツMakiバツ",
-            "＋Aquiles_wolff＋",
-            "Ｓｈｎａｐｉｉ"
-        ],
-        "groups": [
-            "Banner1"
-        ],
-        "custom_indexes": {
-            "3": [
-                "バツMakiバツ",
-                "『ϟsxϟ』ツ",
-                "NΛΣŁ",
-                "marixxa",
-                "ᴇᴛᴀᴅɪʟᴀᴠ4500-",
-                "MarlonQC",
-                "SilverFenris",
-                "ᴇᴛᴀᴅɪʟᴀᴠ",
-                "Warm®",
-                "StreetLove?",
-                "SkateJapo",
-                "NicaGhost",
-                "＋Aquiles_wolff＋",
-                "ikerreki231"
-            ],
-            "5": [
-                "Nath Kohai",
-                "Miizuho-",
-                "Chaos Spectrum",
-                "MotherAsmodeus",
-                "WolfDaver",
-                "S K Ÿ E",
-                "VaKass",
-                "izayoiiiisan",
-                "Zoraft",
-                "ღFLAREBEASTღ"
-            ],
-            "16": [
-                "RuzuChan"
-            ],
-            "9": [
-                "Phantom Reizack",
-                "poisonliz",
-                "GideonToffu",
-                "nyxntx",
-                "tori_cole",
-                "ºALEXIS---XD-º",
-                "Kunniin",
-                "Yutaura",
-                "GALEON10 d7d9",
-                "Lettersmood 5358",
-                "Underharley"
-            ],
-            "1": [
-                "Dios Carmesi"
-            ],
-            "10": [
-                "Yukι-Nαgαto"
-            ],
-            "8": [
-                "Tostadita_Azul"
-            ],
-            "4": [
-                "ᴜѕᴀɢɪᴠʀ",
-                "innari",
-                "Ｓｈｎａｐｉｉ",
-                "Danny_504"
-            ]
-        }
-    },
-    {
-        "ranks": [
-            "Banner2"
-        ],
-        "users": [
-            "DeliS♪",
-            "alexǃ"
-        ],
-        "groups": [
-            "Banner2"
-        ],
-        "custom_indexes": {
-            "16": [
-                "alexǃ",
-                "DeliS♪"
-            ]
-        }
-    },
-    {
-        "ranks": [
-            "Mod"
-        ],
-        "users": [
-            "DenkiKitsune",
-            "Frezzco",
-            "Lyziral",
-            "Shumaru",
-            "Strikkerz'",
-            "TerryArtica",
-            "Venator Prime",
-            "leitoxs",
-            "Κarurosu",
-            "нσѕнι"
-        ],
-        "groups": [
-            "Mod"
-        ]
-    },
-    {
-        "ranks": [
-            "DJ"
-        ],
-        "users": [
-            "VACIO"
-        ],
-        "groups": [
-            "DJ"
-        ]
-    },
-    {
-        "ranks": [
-            "Guest Dancer"
-        ],
-        "users": [
-            "RensellaVT",
-            "Shirou1711"
-        ],
-        "groups": [
-            "Guest Dancer"
-        ]
-    },
-    {
-        "ranks": [
-            "Friends"
-        ],
-        "users": [
-            "MarlonQC",
-            "NΛΣŁ",
-            "marixxa",
-            "ᴇᴛᴀᴅɪʟᴀᴠ4500-",
-            "『ϟsxϟ』ツ",
-            "バツMakiバツ"
-        ],
-        "groups": [
-            "Friends"
-        ]
-    },
-    {
-        "ranks": [
-            "Angelika"
-        ],
-        "users": [
-            "Dios Carmesi",
-            "N y x ღ"
-        ],
-        "groups": [
-            "Angelika"
-        ]
-    },
-    {
-        "ranks": [
-            "JefeDeSeguridad"
-        ],
-        "users": [
-            "GUILEAS",
-            "Strikkеrz"
-        ],
-        "groups": [
-            "JefeDeSeguridad"
-        ]
-    },
-    {
-        "ranks": [
-            "Entity"
-        ],
-        "users": [
-            "Chaos Spectrum",
-            "Miizuho-",
-            "MotherAsmodeus",
-            "Nath Kohai",
-            "S K Ÿ E",
-            "VaKass",
-            "WolfDaver",
-            "Zoraft",
-            "izayoiiiisan",
-            "ღFLAREBEASTღ"
-        ],
-        "groups": [
-            "Entity"
-        ]
-    },
-    {
-        "ranks": [
-            "SinBanner"
-        ],
-        "users": [
-            "Akzara"
-        ],
-        "groups": [
-            "SinBanner"
-        ]
-    },
-    {
-        "ranks": [
-            "Co-Fundador"
-        ],
-        "users": [
-            "RuzuChan",
-            "Yukι-Nαgαto"
-        ],
-        "groups": [
-            "Co-Fundador"
-        ]
-    },
-    {
-        "ranks": [
-            "ELIXIR"
-        ],
-        "users": [
-            "GALEON10 d7d9",
-            "GideonToffu",
-            "Kunniin",
-            "Lettersmood 5358",
-            "Phantom Reizack",
-            "Underharley",
-            "Yutaura",
-            "nyxntx",
-            "poisonliz",
-            "tori_cole",
-            "ºALEXIS---XD-º"
-        ],
-        "groups": [
-            "ELIXIR"
-        ]
-    },
-    {
-        "ranks": [
-            "VipManager"
-        ],
-        "users": [
-            "Tostadita_Azul"
-        ],
-        "groups": [
-            "VipManager"
-        ]
-    },
-    {
-        "ranks": [
-            "VIPFurrys"
-        ],
-        "users": [
-            "NicaGhost",
-            "SilverFenris",
-            "SkateJapo",
-            "StreetLove?",
-            "Warm®",
-            "ikerreki231",
-            "ᴇᴛᴀᴅɪʟᴀᴠ",
-            "＋Aquiles_wolff＋"
-        ],
-        "groups": [
-            "VIPFurrys"
-        ]
-    },
-    {
-        "ranks": [
-            "Partner"
-        ],
-        "users": [
-            "Danny_504",
-            "DeliS♪",
-            "alexǃ",
-            "innari",
-            "ᴜѕᴀɢɪᴠʀ",
-            "Ｓｈｎａｐｉｉ"
-        ],
-        "groups": [
-            "Partner"
-        ]
-    }
+  {"id": "Dios Carmesi",      "rank": "Owner",           "group": "",        "phrase": "", "banner": 1,  "card": 1},
+  {"id": "N y x ღ",          "rank": "Owner",           "group": "",        "phrase": "", "banner": 6,  "card": 0},
+
+  {"id": "RuzuChan",          "rank": "Co-Fundador",     "group": "",        "phrase": "", "banner": 2,  "card": 2},
+
+  {"id": "GUILEAS",           "rank": "JefeDeSeguridad", "group": "",        "phrase": "", "banner": 7,  "card": 0},
+  {"id": "Strikkеrz",         "rank": "JefeDeSeguridad", "group": "",        "phrase": "", "banner": 7,  "card": 0},
+
+  {"id": "DenkiKitsune",      "rank": "Mod",             "group": "",        "phrase": "", "banner": 7,  "card": 0},
+  {"id": "Frezzco",           "rank": "Mod",             "group": "",        "phrase": "", "banner": 7,  "card": 0},
+  {"id": "Lyziral",           "rank": "Mod",             "group": "",        "phrase": "", "banner": 7,  "card": 0},
+  {"id": "Shumaru",           "rank": "Mod",             "group": "",        "phrase": "", "banner": 7,  "card": 0},
+  {"id": "Strikkerz'",        "rank": "Mod",             "group": "",        "phrase": "", "banner": 7,  "card": 0},
+  {"id": "TerryArtica",       "rank": "Mod",             "group": "",        "phrase": "", "banner": 7,  "card": 0},
+  {"id": "Venator Prime",     "rank": "Mod",             "group": "",        "phrase": "", "banner": 7,  "card": 0},
+  {"id": "leitoxs",           "rank": "Mod",             "group": "",        "phrase": "", "banner": 7,  "card": 0},
+  {"id": "Κarurosu",          "rank": "Mod",             "group": "",        "phrase": "", "banner": 7,  "card": 0},
+  {"id": "нσѕнι",             "rank": "Mod",             "group": "",        "phrase": "", "banner": 7,  "card": 0},
+
+  {"id": "ᴜѕᴀɢɪᴠʀ",          "rank": "Partner",         "group": "",        "phrase": "", "banner": 4,  "card": 3},
+  {"id": "innari",            "rank": "Partner",         "group": "",        "phrase": "", "banner": 4,  "card": 4},
+  {"id": "Ｓｈｎａｐｉｉ",         "rank": "Partner",         "group": "",        "phrase": "", "banner": 4,  "card": 5},
+  {"id": "Danny_504",         "rank": "Partner",         "group": "",        "phrase": "", "banner": 4,  "card": 6},
+  {"id": "DeliS♪",            "rank": "Partner",         "group": "",        "phrase": "", "banner": 4,  "card": 7},
+  {"id": "alexǃ",             "rank": "Partner",         "group": "",        "phrase": "", "banner": 4,  "card": 8},
+
+  {"id": "Chaos Spectrum",    "rank": "Group",           "group": "Entity",  "phrase": "", "banner": 5,  "card": 9},
+  {"id": "Miizuho-",          "rank": "Group",           "group": "Entity",  "phrase": "", "banner": 5,  "card": 10},
+  {"id": "MotherAsmodeus",    "rank": "Group",           "group": "Entity",  "phrase": "", "banner": 5,  "card": 11},
+  {"id": "Nath Kohai",        "rank": "Group",           "group": "Entity",  "phrase": "", "banner": 5,  "card": 12},
+  {"id": "S K Ÿ E",          "rank": "Group",           "group": "Entity",  "phrase": "", "banner": 5,  "card": 13},
+  {"id": "VaKass",            "rank": "Group",           "group": "Entity",  "phrase": "", "banner": 5,  "card": 14},
+  {"id": "WolfDaver",         "rank": "Group",           "group": "Entity",  "phrase": "", "banner": 5,  "card": 15},
+  {"id": "Zoraft",            "rank": "Group",           "group": "Entity",  "phrase": "", "banner": 5,  "card": 16},
+  {"id": "izayoiiiisan",      "rank": "Group",           "group": "Entity",  "phrase": "", "banner": 5,  "card": 17},
+  {"id": "ღFLAREBEASTღ",     "rank": "Group",           "group": "Entity",  "phrase": "", "banner": 5,  "card": 18},
+
+  {"id": "GALEON10 d7d9",     "rank": "Group",           "group": "ELIXIR",  "phrase": "", "banner": 10, "card": 19},
+  {"id": "GideonToffu",       "rank": "Group",           "group": "ELIXIR",  "phrase": "", "banner": 10, "card": 20},
+  {"id": "Kunniin",           "rank": "Group",           "group": "ELIXIR",  "phrase": "", "banner": 10, "card": 21},
+  {"id": "Lettersmood 5358",  "rank": "Group",           "group": "ELIXIR",  "phrase": "", "banner": 10, "card": 22},
+  {"id": "Phantom Reizack",   "rank": "Group",           "group": "ELIXIR",  "phrase": "", "banner": 10, "card": 23},
+  {"id": "Underharley",       "rank": "Group",           "group": "ELIXIR",  "phrase": "", "banner": 10, "card": 24},
+  {"id": "Yutaura",           "rank": "Group",           "group": "ELIXIR",  "phrase": "", "banner": 10, "card": 25},
+  {"id": "nyxntx",            "rank": "Group",           "group": "ELIXIR",  "phrase": "", "banner": 10, "card": 26},
+  {"id": "poisonliz",         "rank": "Group",           "group": "ELIXIR",  "phrase": "", "banner": 10, "card": 27},
+  {"id": "tori_cole",         "rank": "Group",           "group": "ELIXIR",  "phrase": "", "banner": 10, "card": 28},
+  {"id": "ºALEXIS---XD-º",   "rank": "Group",           "group": "ELIXIR",  "phrase": "", "banner": 10, "card": 29},
+
+  {"id": "EjemploVacio",      "rank": "Friends",         "group": "",        "phrase": "", "banner": 3,  "card": 0},
+
+  {"id": "Tostadita_Azul",    "rank": "VipManager",      "group": "",        "phrase": "", "banner": 9,  "card": 30},
+  {"id": "Yukι-Nαgαto",      "rank": "VipManager",      "group": "",        "phrase": "", "banner": 11, "card": 31},
+
+  {"id": "NicaGhost",         "rank": "VIPFurrys",       "group": "",        "phrase": "", "banner": 3,  "card": 32},
+  {"id": "SilverFenris",      "rank": "VIPFurrys",       "group": "",        "phrase": "", "banner": 3,  "card": 33},
+  {"id": "SkateJapo",         "rank": "VIPFurrys",       "group": "",        "phrase": "", "banner": 3,  "card": 34},
+  {"id": "StreetLove?",       "rank": "VIPFurrys",       "group": "",        "phrase": "", "banner": 3,  "card": 35},
+  {"id": "Warm®",             "rank": "VIPFurrys",       "group": "",        "phrase": "", "banner": 3,  "card": 36},
+  {"id": "ikerreki231",       "rank": "VIPFurrys",       "group": "",        "phrase": "", "banner": 3,  "card": 37},
+  {"id": "ᴇᴛᴀᴅɪʟᴀᴠ",         "rank": "VIPFurrys",       "group": "",        "phrase": "", "banner": 3,  "card": 38},
+  {"id": "＋Aquiles_wolff＋",  "rank": "VIPFurrys",       "group": "",        "phrase": "", "banner": 3,  "card": 39},
+
+  {"id": "Akzara",            "rank": "SinBanner",       "group": "",        "phrase": "", "banner": 0,  "card": 0},
+  {"id": "VACIO",             "rank": "DJ",              "group": "",        "phrase": "", "banner": 0,  "card": 0},
+  {"id": "RensellaVT",        "rank": "Guest Dancer",    "group": "",        "phrase": "", "banner": 0,  "card": 0},
+  {"id": "Shirou1711",        "rank": "Guest Dancer",    "group": "",        "phrase": "", "banner": 0,  "card": 0}
 ]
