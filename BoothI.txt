@@ -1,6 +1,0 @@
-{
-  "Nombre": "BoothG",
-  "InfoA": "",
-  "InfoB": "",
-  "InfoC": ""
-}

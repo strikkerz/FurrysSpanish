@@ -1,2 +1,0 @@
-- Se actualizo el menu.
-- Ahora los cuartos son exclusivos para VIPS y sus Parejas.
