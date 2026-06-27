@@ -25,6 +25,31 @@
     "Elixir",
     "Yukι-Nαgαto"
   ],
-  "banner_file_order": [],
-  "card_atlases": []
+  "banner_file_order": [
+    "El_Creador.png",
+    "Co-Fundadora.png",
+    "Seguridad.png",
+    "Partner.png",
+    "Entity.png",
+    "",
+    "VipManager.png",
+    "VIP.png",
+    "AdminManager.png",
+    "Elixir.png"
+  ],
+  "card_atlases": [],
+  "rank_colors": {
+    "Owner": "#c8a0ff",
+    "Co-Fundador": "#a0c8ff",
+    "JefeDeSeguridad": "#d0d080",
+    "Mod": "#80d080",
+    "Partner": "#ffa080",
+    "Group": "#80e0e0",
+    "Friends": "#ffcc80",
+    "VipManager": "#ff80ff",
+    "VIPFurrys": "#ff80c0",
+    "SinBanner": "#606060",
+    "DJ": "#8080ff",
+    "Guest Dancer": "#909090"
+  }
 }

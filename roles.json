@@ -3,11 +3,12 @@
     "id": "Dios Carmesi",
     "rank": "Owner",
     "group": "",
-    "phrase": "",
+    "phrase": "https://dioscarmesi.github.io/html/commission.html",
     "banner": 1,
     "card": 1,
     "added": "2026-06-24",
-    "expires": "2026-07-24"
+    "expires": "2026-07-24",
+    "photo": "C:\\Users\\Carmesi\\Downloads\\asdsdfsdf.png"
   },
   {
     "id": "N y x ღ",
@@ -15,7 +16,7 @@
     "group": "",
     "phrase": "",
     "banner": 6,
-    "card": 40,
+    "card": 26,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -35,7 +36,7 @@
     "group": "",
     "phrase": "",
     "banner": 7,
-    "card": 41,
+    "card": 27,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -45,7 +46,7 @@
     "group": "",
     "phrase": "",
     "banner": 7,
-    "card": 43,
+    "card": 28,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -55,7 +56,7 @@
     "group": "",
     "phrase": "",
     "banner": 7,
-    "card": 44,
+    "card": 29,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -65,7 +66,7 @@
     "group": "",
     "phrase": "",
     "banner": 7,
-    "card": 45,
+    "card": 30,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -75,7 +76,7 @@
     "group": "",
     "phrase": "",
     "banner": 7,
-    "card": 46,
+    "card": 31,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -85,7 +86,7 @@
     "group": "",
     "phrase": "",
     "banner": 7,
-    "card": 47,
+    "card": 32,
     "added": "2026-06-24",
     "expires": "2026-07-24",
     "photo": ""
@@ -96,7 +97,7 @@
     "group": "",
     "phrase": "",
     "banner": 7,
-    "card": 49,
+    "card": 33,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -106,7 +107,7 @@
     "group": "",
     "phrase": "",
     "banner": 7,
-    "card": 50,
+    "card": 34,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -116,7 +117,7 @@
     "group": "",
     "phrase": "",
     "banner": 7,
-    "card": 51,
+    "card": 35,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -126,67 +127,7 @@
     "group": "",
     "phrase": "",
     "banner": 7,
-    "card": 52,
-    "added": "2026-06-24",
-    "expires": "2026-07-24"
-  },
-  {
-    "id": "ᴜѕᴀɢɪᴠʀ",
-    "rank": "Partner",
-    "group": "",
-    "phrase": "",
-    "banner": 4,
-    "card": 3,
-    "added": "2026-06-24",
-    "expires": "2026-07-24"
-  },
-  {
-    "id": "innari",
-    "rank": "Partner",
-    "group": "",
-    "phrase": "",
-    "banner": 4,
-    "card": 4,
-    "added": "2026-06-24",
-    "expires": "2026-07-24"
-  },
-  {
-    "id": "Ｓｈｎａｐｉｉ",
-    "rank": "Partner",
-    "group": "",
-    "phrase": "",
-    "banner": 4,
-    "card": 5,
-    "added": "2026-06-24",
-    "expires": "2026-07-24"
-  },
-  {
-    "id": "Danny_504",
-    "rank": "Partner",
-    "group": "",
-    "phrase": "",
-    "banner": 4,
-    "card": 6,
-    "added": "2026-06-24",
-    "expires": "2026-07-24"
-  },
-  {
-    "id": "DeliS♪",
-    "rank": "Partner",
-    "group": "",
-    "phrase": "",
-    "banner": 4,
-    "card": 7,
-    "added": "2026-06-24",
-    "expires": "2026-07-24"
-  },
-  {
-    "id": "alexǃ",
-    "rank": "Partner",
-    "group": "",
-    "phrase": "",
-    "banner": 4,
-    "card": 8,
+    "card": 36,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -196,7 +137,7 @@
     "group": "Entity",
     "phrase": "",
     "banner": 5,
-    "card": 9,
+    "card": 3,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -206,7 +147,7 @@
     "group": "Entity",
     "phrase": "",
     "banner": 5,
-    "card": 10,
+    "card": 4,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -216,9 +157,10 @@
     "group": "Entity",
     "phrase": "",
     "banner": 5,
-    "card": 11,
+    "card": 5,
     "added": "2026-06-24",
-    "expires": "2026-07-24"
+    "expires": "2026-07-24",
+    "photo": "C:\\Users\\Carmesi\\Downloads\\Bannercito_UwU.png"
   },
   {
     "id": "Nath Kohai",
@@ -226,9 +168,10 @@
     "group": "Entity",
     "phrase": "",
     "banner": 5,
-    "card": 12,
+    "card": 6,
     "added": "2026-06-24",
-    "expires": "2026-07-24"
+    "expires": "2026-07-24",
+    "photo": "C:\\Users\\Carmesi\\Downloads\\73a17e2f-83ba-4ef1-a1cc-a01cd673c789.png"
   },
   {
     "id": "S K Ÿ E",
@@ -236,7 +179,7 @@
     "group": "Entity",
     "phrase": "",
     "banner": 5,
-    "card": 13,
+    "card": 7,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -246,7 +189,7 @@
     "group": "Entity",
     "phrase": "",
     "banner": 5,
-    "card": 14,
+    "card": 8,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -256,7 +199,7 @@
     "group": "Entity",
     "phrase": "",
     "banner": 5,
-    "card": 15,
+    "card": 9,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -266,7 +209,7 @@
     "group": "Entity",
     "phrase": "",
     "banner": 5,
-    "card": 16,
+    "card": 10,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -276,9 +219,10 @@
     "group": "Entity",
     "phrase": "",
     "banner": 5,
-    "card": 17,
+    "card": 11,
     "added": "2026-06-24",
-    "expires": "2026-07-24"
+    "expires": "2026-07-24",
+    "photo": "C:\\Users\\Carmesi\\Downloads\\ChatGPT Image 26 jun 2026, 22_28_19.png"
   },
   {
     "id": "ღFLAREBEASTღ",
@@ -286,7 +230,7 @@
     "group": "Entity",
     "phrase": "",
     "banner": 5,
-    "card": 18,
+    "card": 12,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -296,7 +240,7 @@
     "group": "ELIXIR",
     "phrase": "",
     "banner": 10,
-    "card": 19,
+    "card": 13,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -306,7 +250,7 @@
     "group": "ELIXIR",
     "phrase": "",
     "banner": 10,
-    "card": 20,
+    "card": 14,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -316,7 +260,7 @@
     "group": "ELIXIR",
     "phrase": "",
     "banner": 10,
-    "card": 21,
+    "card": 15,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -326,7 +270,7 @@
     "group": "ELIXIR",
     "phrase": "",
     "banner": 10,
-    "card": 22,
+    "card": 16,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -336,7 +280,7 @@
     "group": "ELIXIR",
     "phrase": "",
     "banner": 10,
-    "card": 23,
+    "card": 17,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -346,7 +290,7 @@
     "group": "ELIXIR",
     "phrase": "",
     "banner": 10,
-    "card": 24,
+    "card": 18,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -356,7 +300,7 @@
     "group": "ELIXIR",
     "phrase": "",
     "banner": 10,
-    "card": 25,
+    "card": 19,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -366,7 +310,7 @@
     "group": "ELIXIR",
     "phrase": "",
     "banner": 10,
-    "card": 26,
+    "card": 20,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -376,7 +320,7 @@
     "group": "ELIXIR",
     "phrase": "",
     "banner": 10,
-    "card": 27,
+    "card": 21,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -386,7 +330,7 @@
     "group": "ELIXIR",
     "phrase": "",
     "banner": 10,
-    "card": 28,
+    "card": 22,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -396,7 +340,7 @@
     "group": "ELIXIR",
     "phrase": "",
     "banner": 10,
-    "card": 29,
+    "card": 23,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -406,7 +350,7 @@
     "group": "",
     "phrase": "",
     "banner": 3,
-    "card": 53,
+    "card": 37,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -416,7 +360,7 @@
     "group": "",
     "phrase": "",
     "banner": 9,
-    "card": 30,
+    "card": 24,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -426,87 +370,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 31,
-    "added": "2026-06-24",
-    "expires": "2026-07-24"
-  },
-  {
-    "id": "NicaGhost",
-    "rank": "VIPFurrys",
-    "group": "",
-    "phrase": "",
-    "banner": 3,
-    "card": 32,
-    "added": "2026-06-24",
-    "expires": "2026-07-24"
-  },
-  {
-    "id": "SilverFenris",
-    "rank": "VIPFurrys",
-    "group": "",
-    "phrase": "",
-    "banner": 3,
-    "card": 33,
-    "added": "2026-06-24",
-    "expires": "2026-07-24"
-  },
-  {
-    "id": "SkateJapo",
-    "rank": "VIPFurrys",
-    "group": "",
-    "phrase": "",
-    "banner": 3,
-    "card": 34,
-    "added": "2026-06-24",
-    "expires": "2026-07-24"
-  },
-  {
-    "id": "StreetLove?",
-    "rank": "VIPFurrys",
-    "group": "",
-    "phrase": "",
-    "banner": 3,
-    "card": 35,
-    "added": "2026-06-24",
-    "expires": "2026-07-24"
-  },
-  {
-    "id": "Warm®",
-    "rank": "VIPFurrys",
-    "group": "",
-    "phrase": "",
-    "banner": 3,
-    "card": 36,
-    "added": "2026-06-24",
-    "expires": "2026-07-24"
-  },
-  {
-    "id": "ikerreki231",
-    "rank": "VIPFurrys",
-    "group": "",
-    "phrase": "",
-    "banner": 3,
-    "card": 37,
-    "added": "2026-06-24",
-    "expires": "2026-07-24"
-  },
-  {
-    "id": "ᴇᴛᴀᴅɪʟᴀᴠ",
-    "rank": "VIPFurrys",
-    "group": "",
-    "phrase": "",
-    "banner": 3,
-    "card": 38,
-    "added": "2026-06-24",
-    "expires": "2026-07-24"
-  },
-  {
-    "id": "＋Aquiles_wolff＋",
-    "rank": "VIPFurrys",
-    "group": "",
-    "phrase": "",
-    "banner": 3,
-    "card": 39,
+    "card": 25,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -526,7 +390,7 @@
     "group": "",
     "phrase": "",
     "banner": 0,
-    "card": 54,
+    "card": 38,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -536,7 +400,7 @@
     "group": "",
     "phrase": "",
     "banner": 0,
-    "card": 55,
+    "card": 39,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -546,7 +410,7 @@
     "group": "",
     "phrase": "",
     "banner": 0,
-    "card": 56,
+    "card": 40,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   }
