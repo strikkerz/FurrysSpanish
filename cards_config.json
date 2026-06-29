@@ -3,6 +3,10 @@
   "card_rows": 4,
   "ads_cols": 4,
   "ads_rows": 2,
+  "ad_phrases": [
+    "",
+    "https://furryspanish.carrd.co"
+  ],
   "banner_cols": 4,
   "banner_rows": 4,
   "card_filler": "",
