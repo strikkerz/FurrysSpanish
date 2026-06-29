@@ -386,10 +386,11 @@
     "rank": "SinBanner",
     "group": "",
     "phrase": "",
-    "banner": 0,
+    "banner": 11,
     "card": 0,
     "added": "2026-06-24",
-    "expires": "2026-07-24"
+    "expires": "2026-07-24",
+    "photo": ""
   },
   {
     "id": "VACIO",
