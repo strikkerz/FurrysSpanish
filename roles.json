@@ -424,5 +424,16 @@
     "added": "2026-06-24",
     "expires": "2026-07-24",
     "photo": ""
+  },
+  {
+    "id": "SkateJapo",
+    "rank": "VIPFurrys",
+    "group": "",
+    "phrase": "",
+    "banner": 3,
+    "card": 41,
+    "added": "2026-06-30",
+    "expires": "2026-07-30",
+    "photo": ""
   }
 ]
