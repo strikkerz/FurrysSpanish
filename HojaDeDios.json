@@ -14,7 +14,7 @@
       "group": "",
       "phrase": "",
       "banner": 6,
-      "card": 26
+      "card": 25
     },
     {
       "id": "RuzuChan",
@@ -30,7 +30,7 @@
       "group": "",
       "phrase": "",
       "banner": 11,
-      "card": 27
+      "card": 26
     },
     {
       "id": "DenkiKitsune",
@@ -38,7 +38,7 @@
       "group": "",
       "phrase": "",
       "banner": 11,
-      "card": 28
+      "card": 27
     },
     {
       "id": "Frezzco",
@@ -46,7 +46,7 @@
       "group": "",
       "phrase": "",
       "banner": 11,
-      "card": 29
+      "card": 28
     },
     {
       "id": "Lyziral",
@@ -54,7 +54,7 @@
       "group": "",
       "phrase": "",
       "banner": 11,
-      "card": 30
+      "card": 29
     },
     {
       "id": "Shumaru",
@@ -62,15 +62,15 @@
       "group": "",
       "phrase": "",
       "banner": 11,
-      "card": 31
+      "card": 30
     },
     {
       "id": "Strikkerz'",
       "rank": "Owner",
       "group": "",
       "phrase": "",
-      "banner": 7,
-      "card": 32
+      "banner": 6,
+      "card": 31
     },
     {
       "id": "Venator Prime",
@@ -78,7 +78,7 @@
       "group": "",
       "phrase": "",
       "banner": 11,
-      "card": 33
+      "card": 32
     },
     {
       "id": "leitoxs",
@@ -86,7 +86,7 @@
       "group": "",
       "phrase": "",
       "banner": 11,
-      "card": 34
+      "card": 33
     },
     {
       "id": "Κarurosu",
@@ -94,7 +94,7 @@
       "group": "",
       "phrase": "",
       "banner": 11,
-      "card": 35
+      "card": 34
     },
     {
       "id": "нσѕнι",
@@ -102,7 +102,7 @@
       "group": "",
       "phrase": "",
       "banner": 11,
-      "card": 36
+      "card": 35
     },
     {
       "id": "Chaos Spectrum",
@@ -278,23 +278,15 @@
       "group": "",
       "phrase": "",
       "banner": 11,
-      "card": 37
+      "card": 36
     },
     {
       "id": "Tostadita_Azul",
       "rank": "VipManager",
       "group": "",
       "phrase": "",
-      "banner": 9,
-      "card": 24
-    },
-    {
-      "id": "Yukι-Nαgαto",
-      "rank": "VipManager",
-      "group": "",
-      "phrase": "",
       "banner": 7,
-      "card": 25
+      "card": 24
     },
     {
       "id": "Akzara",
@@ -310,7 +302,7 @@
       "group": "",
       "phrase": "",
       "banner": 11,
-      "card": 38
+      "card": 37
     },
     {
       "id": "RensellaVT",
@@ -318,7 +310,7 @@
       "group": "",
       "phrase": "",
       "banner": 11,
-      "card": 39
+      "card": 38
     },
     {
       "id": "Shirou1711",
@@ -326,7 +318,7 @@
       "group": "",
       "phrase": "",
       "banner": 11,
-      "card": 40
+      "card": 39
     },
     {
       "id": "SkateJapo",
@@ -334,15 +326,15 @@
       "group": "",
       "phrase": "",
       "banner": 8,
-      "card": 41
+      "card": 40
     },
     {
       "id": "NicaGhost",
-      "rank": "Friends",
+      "rank": "VIPFurrys",
       "group": "",
       "phrase": "",
-      "banner": 11,
-      "card": 42
+      "banner": 8,
+      "card": 41
     }
   ],
   "ads": [

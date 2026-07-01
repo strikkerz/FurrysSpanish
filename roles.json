@@ -16,7 +16,7 @@
     "group": "",
     "phrase": "",
     "banner": 6,
-    "card": 26,
+    "card": 25,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -36,7 +36,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 27,
+    "card": 26,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -46,7 +46,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 28,
+    "card": 27,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -56,7 +56,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 29,
+    "card": 28,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -66,7 +66,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 30,
+    "card": 29,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -76,7 +76,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 31,
+    "card": 30,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -85,8 +85,8 @@
     "rank": "Owner",
     "group": "",
     "phrase": "",
-    "banner": 7,
-    "card": 32,
+    "banner": 6,
+    "card": 31,
     "added": "2026-06-24",
     "expires": "2026-07-24",
     "photo": ""
@@ -97,7 +97,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 33,
+    "card": 32,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -107,7 +107,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 34,
+    "card": 33,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -117,7 +117,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 35,
+    "card": 34,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -127,7 +127,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 36,
+    "card": 35,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -357,7 +357,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 37,
+    "card": 36,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -366,21 +366,11 @@
     "rank": "VipManager",
     "group": "",
     "phrase": "",
-    "banner": 9,
+    "banner": 7,
     "card": 24,
     "added": "2026-06-24",
     "expires": "2026-07-24",
     "photo": ""
-  },
-  {
-    "id": "Yukι-Nαgαto",
-    "rank": "VipManager",
-    "group": "",
-    "phrase": "",
-    "banner": 7,
-    "card": 25,
-    "added": "2026-06-24",
-    "expires": "2026-07-24"
   },
   {
     "id": "Akzara",
@@ -399,7 +389,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 38,
+    "card": 37,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -409,7 +399,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 39,
+    "card": 38,
     "added": "2026-06-24",
     "expires": "2026-07-24",
     "photo": ""
@@ -420,7 +410,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 40,
+    "card": 39,
     "added": "2026-06-24",
     "expires": "2026-07-24",
     "photo": ""
@@ -431,18 +421,18 @@
     "group": "",
     "phrase": "",
     "banner": 8,
-    "card": 41,
+    "card": 40,
     "added": "2026-06-30",
     "expires": "2026-07-30",
     "photo": ""
   },
   {
     "id": "NicaGhost",
-    "rank": "Friends",
+    "rank": "VIPFurrys",
     "group": "",
     "phrase": "",
-    "banner": 11,
-    "card": 42,
+    "banner": 8,
+    "card": 41,
     "added": "2026-07-01",
     "expires": "2026-07-31",
     "photo": ""
