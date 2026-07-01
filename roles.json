@@ -435,5 +435,16 @@
     "added": "2026-06-30",
     "expires": "2026-07-30",
     "photo": ""
+  },
+  {
+    "id": "NicaGhost",
+    "rank": "VIPFurrys",
+    "group": "",
+    "phrase": "",
+    "banner": 3,
+    "card": 42,
+    "added": "2026-07-01",
+    "expires": "2026-07-31",
+    "photo": ""
   }
 ]
