@@ -277,7 +277,7 @@
       "rank": "Friends",
       "group": "",
       "phrase": "",
-      "banner": 0,
+      "banner": 11,
       "card": 37
     },
     {
@@ -309,7 +309,7 @@
       "rank": "DJ",
       "group": "",
       "phrase": "",
-      "banner": 0,
+      "banner": 11,
       "card": 38
     },
     {
@@ -317,7 +317,7 @@
       "rank": "Guest Dancer",
       "group": "",
       "phrase": "",
-      "banner": 0,
+      "banner": 11,
       "card": 39
     },
     {
@@ -325,7 +325,7 @@
       "rank": "Guest Dancer",
       "group": "",
       "phrase": "",
-      "banner": 0,
+      "banner": 11,
       "card": 40
     },
     {
@@ -338,10 +338,10 @@
     },
     {
       "id": "NicaGhost",
-      "rank": "VIPFurrys",
+      "rank": "Friends",
       "group": "",
       "phrase": "",
-      "banner": 0,
+      "banner": 11,
       "card": 42
     }
   ],
