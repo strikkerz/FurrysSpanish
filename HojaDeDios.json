@@ -49,7 +49,7 @@
       "card": 28
     },
     {
-      "id": "Lyziral",
+      "id": "Shumaru",
       "rank": "Mod",
       "group": "",
       "phrase": "",
@@ -57,20 +57,12 @@
       "card": 29
     },
     {
-      "id": "Shumaru",
-      "rank": "Mod",
-      "group": "",
-      "phrase": "",
-      "banner": 11,
-      "card": 30
-    },
-    {
       "id": "Strikkerz'",
       "rank": "Owner",
       "group": "",
       "phrase": "",
       "banner": 12,
-      "card": 31
+      "card": 30
     },
     {
       "id": "Venator Prime",
@@ -78,7 +70,7 @@
       "group": "",
       "phrase": "",
       "banner": 11,
-      "card": 32
+      "card": 31
     },
     {
       "id": "leitoxs",
@@ -86,7 +78,7 @@
       "group": "",
       "phrase": "",
       "banner": 11,
-      "card": 33
+      "card": 32
     },
     {
       "id": "Κarurosu",
@@ -94,7 +86,7 @@
       "group": "",
       "phrase": "",
       "banner": 11,
-      "card": 34
+      "card": 33
     },
     {
       "id": "нσѕнι",
@@ -102,7 +94,7 @@
       "group": "",
       "phrase": "",
       "banner": 11,
-      "card": 35
+      "card": 34
     },
     {
       "id": "Chaos Spectrum",
@@ -278,7 +270,7 @@
       "group": "",
       "phrase": "",
       "banner": 13,
-      "card": 36
+      "card": 35
     },
     {
       "id": "DeruDeruKoi",
@@ -302,7 +294,7 @@
       "group": "",
       "phrase": "",
       "banner": 11,
-      "card": 37
+      "card": 36
     },
     {
       "id": "RensellaVT",
@@ -310,7 +302,7 @@
       "group": "",
       "phrase": "",
       "banner": 11,
-      "card": 38
+      "card": 37
     },
     {
       "id": "Shirou1711",
@@ -318,7 +310,7 @@
       "group": "",
       "phrase": "",
       "banner": 11,
-      "card": 39
+      "card": 38
     },
     {
       "id": "SkateJapo",
@@ -326,7 +318,7 @@
       "group": "",
       "phrase": "",
       "banner": 8,
-      "card": 40
+      "card": 39
     },
     {
       "id": "NicaGhost",
@@ -334,7 +326,7 @@
       "group": "",
       "phrase": "",
       "banner": 8,
-      "card": 41
+      "card": 40
     },
     {
       "id": "Luckγ",
@@ -342,7 +334,7 @@
       "group": "",
       "phrase": "",
       "banner": 8,
-      "card": 42
+      "card": 41
     },
     {
       "id": "Morgan05",
@@ -350,7 +342,7 @@
       "group": "",
       "phrase": "",
       "banner": 8,
-      "card": 43
+      "card": 42
     },
     {
       "id": "ALEX ×͜×",
@@ -358,7 +350,7 @@
       "group": "",
       "phrase": "",
       "banner": 8,
-      "card": 44
+      "card": 43
     },
     {
       "id": "CatBryX",
@@ -366,7 +358,7 @@
       "group": "",
       "phrase": "",
       "banner": 8,
-      "card": 45
+      "card": 44
     },
     {
       "id": "-Widow-",
@@ -374,7 +366,7 @@
       "group": "",
       "phrase": "Pareja de DeruDeru",
       "banner": 8,
-      "card": 46
+      "card": 45
     }
   ],
   "ads": [

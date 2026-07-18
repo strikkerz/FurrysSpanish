@@ -62,7 +62,7 @@
     "expires": "2026-07-24"
   },
   {
-    "id": "Lyziral",
+    "id": "Shumaru",
     "rank": "Mod",
     "group": "",
     "phrase": "",
@@ -72,22 +72,12 @@
     "expires": "2026-07-24"
   },
   {
-    "id": "Shumaru",
-    "rank": "Mod",
-    "group": "",
-    "phrase": "",
-    "banner": 11,
-    "card": 30,
-    "added": "2026-06-24",
-    "expires": "2026-07-24"
-  },
-  {
     "id": "Strikkerz'",
     "rank": "Owner",
     "group": "",
     "phrase": "",
     "banner": 12,
-    "card": 31,
+    "card": 30,
     "added": "2026-06-24",
     "expires": "2026-07-24",
     "photo": ""
@@ -98,7 +88,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 32,
+    "card": 31,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -108,7 +98,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 33,
+    "card": 32,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -118,7 +108,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 34,
+    "card": 33,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -128,7 +118,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 35,
+    "card": 34,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -358,7 +348,7 @@
     "group": "",
     "phrase": "",
     "banner": 13,
-    "card": 36,
+    "card": 35,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -390,7 +380,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 37,
+    "card": 36,
     "added": "2026-06-24",
     "expires": "2026-07-24"
   },
@@ -400,7 +390,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 38,
+    "card": 37,
     "added": "2026-06-24",
     "expires": "2026-07-24",
     "photo": ""
@@ -411,7 +401,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 39,
+    "card": 38,
     "added": "2026-06-24",
     "expires": "2026-07-24",
     "photo": ""
@@ -422,7 +412,7 @@
     "group": "",
     "phrase": "",
     "banner": 8,
-    "card": 40,
+    "card": 39,
     "added": "2026-06-30",
     "expires": "2026-07-30",
     "photo": ""
@@ -433,7 +423,7 @@
     "group": "",
     "phrase": "",
     "banner": 8,
-    "card": 41,
+    "card": 40,
     "added": "2026-07-01",
     "expires": "2026-08-09",
     "photo": ""
@@ -444,7 +434,7 @@
     "group": "",
     "phrase": "",
     "banner": 8,
-    "card": 42,
+    "card": 41,
     "added": "2026-07-01",
     "expires": "2026-08-01",
     "photo": ""
@@ -455,7 +445,7 @@
     "group": "",
     "phrase": "",
     "banner": 8,
-    "card": 43,
+    "card": 42,
     "added": "2026-07-03",
     "expires": "2026-08-02",
     "photo": ""
@@ -466,7 +456,7 @@
     "group": "",
     "phrase": "",
     "banner": 8,
-    "card": 44,
+    "card": 43,
     "added": "2026-07-03",
     "expires": "2026-08-02",
     "photo": ""
@@ -477,7 +467,7 @@
     "group": "",
     "phrase": "",
     "banner": 8,
-    "card": 45,
+    "card": 44,
     "added": "2026-07-07",
     "expires": "2026-08-06",
     "photo": ""
@@ -488,7 +478,7 @@
     "group": "",
     "phrase": "Pareja de DeruDeru",
     "banner": 8,
-    "card": 46,
+    "card": 45,
     "added": "2026-07-13",
     "expires": "2026-08-12",
     "photo": ""
