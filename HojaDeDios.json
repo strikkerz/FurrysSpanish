@@ -14,7 +14,7 @@
       "group": "",
       "phrase": "",
       "banner": 6,
-      "card": 24
+      "card": 25
     },
     {
       "id": "RuzuChan",
@@ -30,7 +30,7 @@
       "group": "",
       "phrase": "",
       "banner": 11,
-      "card": 25
+      "card": 26
     },
     {
       "id": "DenkiKitsune",
@@ -38,7 +38,7 @@
       "group": "",
       "phrase": "",
       "banner": 11,
-      "card": 26
+      "card": 27
     },
     {
       "id": "Frezzco",
@@ -46,7 +46,7 @@
       "group": "",
       "phrase": "",
       "banner": 11,
-      "card": 27
+      "card": 28
     },
     {
       "id": "Shumaru",
@@ -54,7 +54,7 @@
       "group": "",
       "phrase": "",
       "banner": 11,
-      "card": 28
+      "card": 29
     },
     {
       "id": "Strikkerz'",
@@ -62,7 +62,7 @@
       "group": "",
       "phrase": "",
       "banner": 12,
-      "card": 29
+      "card": 30
     },
     {
       "id": "Venator Prime",
@@ -70,7 +70,7 @@
       "group": "",
       "phrase": "",
       "banner": 11,
-      "card": 30
+      "card": 31
     },
     {
       "id": "leitoxs",
@@ -78,7 +78,7 @@
       "group": "",
       "phrase": "",
       "banner": 11,
-      "card": 31
+      "card": 32
     },
     {
       "id": "Κarurosu",
@@ -86,7 +86,7 @@
       "group": "",
       "phrase": "",
       "banner": 11,
-      "card": 32
+      "card": 33
     },
     {
       "id": "нσѕнι",
@@ -94,7 +94,7 @@
       "group": "",
       "phrase": "",
       "banner": 11,
-      "card": 33
+      "card": 34
     },
     {
       "id": "Chaos Spectrum",
@@ -185,7 +185,7 @@
       "card": 13
     },
     {
-      "id": "Kunniin",
+      "id": "GideonToffu",
       "rank": "Group",
       "group": "ELIXIR",
       "phrase": "",
@@ -193,7 +193,7 @@
       "card": 14
     },
     {
-      "id": "Lettersmood 5358",
+      "id": "Kunniin",
       "rank": "Group",
       "group": "ELIXIR",
       "phrase": "",
@@ -201,7 +201,7 @@
       "card": 15
     },
     {
-      "id": "Phantom Reizack",
+      "id": "Lettersmood 5358",
       "rank": "Group",
       "group": "ELIXIR",
       "phrase": "",
@@ -209,7 +209,7 @@
       "card": 16
     },
     {
-      "id": "Underharley",
+      "id": "Phantom Reizack",
       "rank": "Group",
       "group": "ELIXIR",
       "phrase": "",
@@ -217,7 +217,7 @@
       "card": 17
     },
     {
-      "id": "Yutaura",
+      "id": "Underharley",
       "rank": "Group",
       "group": "ELIXIR",
       "phrase": "",
@@ -225,7 +225,7 @@
       "card": 18
     },
     {
-      "id": "nyxntx",
+      "id": "Yutaura",
       "rank": "Group",
       "group": "ELIXIR",
       "phrase": "",
@@ -233,7 +233,7 @@
       "card": 19
     },
     {
-      "id": "poisonliz",
+      "id": "nyxntx",
       "rank": "Group",
       "group": "ELIXIR",
       "phrase": "",
@@ -241,7 +241,7 @@
       "card": 20
     },
     {
-      "id": "tori_cole",
+      "id": "poisonliz",
       "rank": "Group",
       "group": "ELIXIR",
       "phrase": "",
@@ -249,7 +249,7 @@
       "card": 21
     },
     {
-      "id": "ºALEXIS---XD-º",
+      "id": "tori_cole",
       "rank": "Group",
       "group": "ELIXIR",
       "phrase": "",
@@ -257,12 +257,20 @@
       "card": 22
     },
     {
+      "id": "ºALEXIS---XD-º",
+      "rank": "Group",
+      "group": "ELIXIR",
+      "phrase": "",
+      "banner": 10,
+      "card": 23
+    },
+    {
       "id": "EjemploVacio",
       "rank": "Friends",
       "group": "",
       "phrase": "",
       "banner": 13,
-      "card": 34
+      "card": 35
     },
     {
       "id": "DeruDeruKoi",
@@ -270,7 +278,7 @@
       "group": "",
       "phrase": "",
       "banner": 12,
-      "card": 23
+      "card": 24
     },
     {
       "id": "Akzara",
@@ -286,7 +294,7 @@
       "group": "",
       "phrase": "",
       "banner": 11,
-      "card": 35
+      "card": 36
     },
     {
       "id": "RensellaVT",
@@ -294,7 +302,7 @@
       "group": "",
       "phrase": "",
       "banner": 11,
-      "card": 36
+      "card": 37
     },
     {
       "id": "Shirou1711",
@@ -302,7 +310,7 @@
       "group": "",
       "phrase": "",
       "banner": 11,
-      "card": 37
+      "card": 38
     },
     {
       "id": "SkateJapo",
@@ -310,7 +318,7 @@
       "group": "",
       "phrase": "",
       "banner": 8,
-      "card": 38
+      "card": 39
     },
     {
       "id": "NicaGhost",
@@ -318,7 +326,7 @@
       "group": "",
       "phrase": "",
       "banner": 8,
-      "card": 39
+      "card": 40
     },
     {
       "id": "Luckγ",
@@ -326,7 +334,7 @@
       "group": "",
       "phrase": "",
       "banner": 8,
-      "card": 40
+      "card": 41
     },
     {
       "id": "Morgan05",
@@ -334,7 +342,7 @@
       "group": "",
       "phrase": "",
       "banner": 8,
-      "card": 41
+      "card": 42
     },
     {
       "id": "ALEX ×͜×",
@@ -342,7 +350,7 @@
       "group": "",
       "phrase": "",
       "banner": 8,
-      "card": 42
+      "card": 43
     },
     {
       "id": "CatBryX",
@@ -350,7 +358,7 @@
       "group": "",
       "phrase": "",
       "banner": 8,
-      "card": 43
+      "card": 44
     },
     {
       "id": "-Widow-",
@@ -358,7 +366,15 @@
       "group": "",
       "phrase": "Pareja de DeruDeru",
       "banner": 8,
-      "card": 44
+      "card": 45
+    },
+    {
+      "id": "Angel229",
+      "rank": "VIPFurrys",
+      "group": "",
+      "phrase": "",
+      "banner": 8,
+      "card": 46
     }
   ],
   "ads": [
