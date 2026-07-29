@@ -40,7 +40,7 @@
     "banner": 11,
     "card": 23,
     "added": "2026-06-24",
-    "expires": "2026-07-24",
+    "expires": "2050-07-24",
     "photo": ""
   },
   {
@@ -51,7 +51,7 @@
     "banner": 11,
     "card": 24,
     "added": "2026-06-24",
-    "expires": "2026-07-24",
+    "expires": "2050-07-24",
     "photo": ""
   },
   {
@@ -62,7 +62,7 @@
     "banner": 11,
     "card": 25,
     "added": "2026-06-24",
-    "expires": "2026-07-24",
+    "expires": "2050-07-24",
     "photo": ""
   },
   {
@@ -73,7 +73,7 @@
     "banner": 11,
     "card": 26,
     "added": "2026-06-24",
-    "expires": "2026-07-24",
+    "expires": "2050-07-24",
     "photo": ""
   },
   {
@@ -95,7 +95,7 @@
     "banner": 11,
     "card": 28,
     "added": "2026-06-24",
-    "expires": "2026-07-24",
+    "expires": "2050-07-24",
     "photo": ""
   },
   {
@@ -106,7 +106,7 @@
     "banner": 11,
     "card": 29,
     "added": "2026-06-24",
-    "expires": "2026-07-24",
+    "expires": "2050-07-24",
     "photo": ""
   },
   {
@@ -117,7 +117,7 @@
     "banner": 11,
     "card": 30,
     "added": "2026-06-24",
-    "expires": "2026-07-24",
+    "expires": "2050-07-24",
     "photo": ""
   },
   {
@@ -128,7 +128,7 @@
     "banner": 11,
     "card": 31,
     "added": "2026-06-24",
-    "expires": "2026-07-24",
+    "expires": "2050-07-24",
     "photo": ""
   },
   {
@@ -139,7 +139,7 @@
     "banner": 5,
     "card": 3,
     "added": "2026-06-24",
-    "expires": "2026-07-24",
+    "expires": "2028-07-24",
     "photo": ""
   },
   {
@@ -150,7 +150,7 @@
     "banner": 5,
     "card": 4,
     "added": "2026-06-24",
-    "expires": "2026-07-24",
+    "expires": "2028-07-24",
     "photo": ""
   },
   {
@@ -161,7 +161,7 @@
     "banner": 5,
     "card": 5,
     "added": "2026-06-24",
-    "expires": "2026-07-24",
+    "expires": "2028-07-24",
     "photo": ""
   },
   {
@@ -172,7 +172,7 @@
     "banner": 5,
     "card": 6,
     "added": "2026-06-24",
-    "expires": "2026-07-24",
+    "expires": "2028-07-24",
     "photo": ""
   },
   {
@@ -183,7 +183,7 @@
     "banner": 5,
     "card": 7,
     "added": "2026-06-24",
-    "expires": "2026-07-24",
+    "expires": "2028-07-24",
     "photo": ""
   },
   {
@@ -194,7 +194,7 @@
     "banner": 5,
     "card": 8,
     "added": "2026-06-24",
-    "expires": "2026-07-24",
+    "expires": "2028-07-24",
     "photo": ""
   },
   {
@@ -205,7 +205,7 @@
     "banner": 5,
     "card": 9,
     "added": "2026-06-24",
-    "expires": "2026-07-24",
+    "expires": "2028-07-24",
     "photo": ""
   },
   {
@@ -216,7 +216,7 @@
     "banner": 5,
     "card": 10,
     "added": "2026-06-24",
-    "expires": "2026-07-24",
+    "expires": "2028-07-24",
     "photo": ""
   },
   {
@@ -227,7 +227,7 @@
     "banner": 5,
     "card": 11,
     "added": "2026-06-24",
-    "expires": "2026-07-24",
+    "expires": "2028-07-24",
     "photo": ""
   },
   {
@@ -238,7 +238,8 @@
     "banner": 10,
     "card": 12,
     "added": "2026-06-24",
-    "expires": "2026-07-24"
+    "expires": "2028-07-24",
+    "photo": ""
   },
   {
     "id": "Lettersmood 5358",
@@ -248,7 +249,8 @@
     "banner": 10,
     "card": 13,
     "added": "2026-06-24",
-    "expires": "2026-07-24"
+    "expires": "2028-07-24",
+    "photo": ""
   },
   {
     "id": "Phantom Reizack",
@@ -258,7 +260,8 @@
     "banner": 10,
     "card": 14,
     "added": "2026-06-24",
-    "expires": "2026-07-24"
+    "expires": "2028-07-24",
+    "photo": ""
   },
   {
     "id": "Underharley",
@@ -268,7 +271,7 @@
     "banner": 10,
     "card": 15,
     "added": "2026-06-24",
-    "expires": "2026-07-24",
+    "expires": "2028-07-24",
     "photo": ""
   },
   {
@@ -279,7 +282,7 @@
     "banner": 10,
     "card": 16,
     "added": "2026-06-24",
-    "expires": "2026-07-24",
+    "expires": "2028-07-24",
     "photo": ""
   },
   {
@@ -290,7 +293,8 @@
     "banner": 10,
     "card": 17,
     "added": "2026-06-24",
-    "expires": "2026-07-24"
+    "expires": "2028-07-24",
+    "photo": ""
   },
   {
     "id": "poisonliz",
@@ -300,7 +304,8 @@
     "banner": 10,
     "card": 18,
     "added": "2026-06-24",
-    "expires": "2026-07-24"
+    "expires": "2028-07-24",
+    "photo": ""
   },
   {
     "id": "tori_cole",
@@ -310,7 +315,8 @@
     "banner": 10,
     "card": 19,
     "added": "2026-06-24",
-    "expires": "2026-07-24"
+    "expires": "2028-07-24",
+    "photo": ""
   },
   {
     "id": "ºALEXIS---XD-º",
@@ -320,7 +326,8 @@
     "banner": 10,
     "card": 20,
     "added": "2026-06-24",
-    "expires": "2026-07-24"
+    "expires": "2028-07-24",
+    "photo": ""
   },
   {
     "id": "EjemploVacio",
@@ -341,18 +348,18 @@
     "banner": 12,
     "card": 21,
     "added": "2026-06-24",
-    "expires": "2026-07-24",
+    "expires": "2050-07-24",
     "photo": ""
   },
   {
     "id": "Akzara",
-    "rank": "Friends",
+    "rank": "Mod",
     "group": "",
     "phrase": "",
     "banner": 11,
     "card": 0,
     "added": "2026-06-24",
-    "expires": "2026-07-24",
+    "expires": "2050-07-24",
     "photo": ""
   },
   {
