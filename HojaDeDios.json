@@ -289,7 +289,7 @@
       "card": 35
     },
     {
-      "id": "SkateJapo",
+      "id": "NicaGhost",
       "rank": "VIPFurrys",
       "group": "",
       "phrase": "",
@@ -297,7 +297,7 @@
       "card": 36
     },
     {
-      "id": "NicaGhost",
+      "id": "Luckγ",
       "rank": "VIPFurrys",
       "group": "",
       "phrase": "",
@@ -305,7 +305,7 @@
       "card": 37
     },
     {
-      "id": "Luckγ",
+      "id": "Morgan05",
       "rank": "VIPFurrys",
       "group": "",
       "phrase": "",
@@ -313,7 +313,7 @@
       "card": 38
     },
     {
-      "id": "Morgan05",
+      "id": "ALEX ×͜×",
       "rank": "VIPFurrys",
       "group": "",
       "phrase": "",
@@ -321,7 +321,7 @@
       "card": 39
     },
     {
-      "id": "ALEX ×͜×",
+      "id": "CatBryX",
       "rank": "VIPFurrys",
       "group": "",
       "phrase": "",
@@ -329,20 +329,12 @@
       "card": 40
     },
     {
-      "id": "CatBryX",
-      "rank": "VIPFurrys",
-      "group": "",
-      "phrase": "",
-      "banner": 8,
-      "card": 41
-    },
-    {
       "id": "-Widow-",
       "rank": "VIPFurrys",
       "group": "",
       "phrase": "Pareja de DeruDeru",
       "banner": 8,
-      "card": 42
+      "card": 41
     },
     {
       "id": "Angel229",
@@ -350,17 +342,13 @@
       "group": "",
       "phrase": "",
       "banner": 8,
-      "card": 43
+      "card": 42
     }
   ],
   "ads": [
     {
       "cell": 2,
       "phrase": "https://furryspanish.carrd.co"
-    },
-    {
-      "cell": 3,
-      "phrase": "https://discord.gg/eEMKJfVAE4"
     }
   ]
 }

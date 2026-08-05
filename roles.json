@@ -396,23 +396,12 @@
     "photo": ""
   },
   {
-    "id": "SkateJapo",
-    "rank": "VIPFurrys",
-    "group": "",
-    "phrase": "",
-    "banner": 8,
-    "card": 36,
-    "added": "2026-06-30",
-    "expires": "2026-07-30",
-    "photo": ""
-  },
-  {
     "id": "NicaGhost",
     "rank": "VIPFurrys",
     "group": "",
     "phrase": "",
     "banner": 8,
-    "card": 37,
+    "card": 36,
     "added": "2026-07-01",
     "expires": "2026-08-09",
     "photo": ""
@@ -423,7 +412,7 @@
     "group": "",
     "phrase": "",
     "banner": 8,
-    "card": 38,
+    "card": 37,
     "added": "2026-07-01",
     "expires": "2026-08-01",
     "photo": ""
@@ -434,7 +423,7 @@
     "group": "",
     "phrase": "",
     "banner": 8,
-    "card": 39,
+    "card": 38,
     "added": "2026-07-03",
     "expires": "2026-08-02",
     "photo": ""
@@ -445,7 +434,7 @@
     "group": "",
     "phrase": "",
     "banner": 8,
-    "card": 40,
+    "card": 39,
     "added": "2026-07-03",
     "expires": "2026-08-02",
     "photo": ""
@@ -456,7 +445,7 @@
     "group": "",
     "phrase": "",
     "banner": 8,
-    "card": 41,
+    "card": 40,
     "added": "2026-07-07",
     "expires": "2026-08-06",
     "photo": ""
@@ -467,7 +456,7 @@
     "group": "",
     "phrase": "Pareja de DeruDeru",
     "banner": 8,
-    "card": 42,
+    "card": 41,
     "added": "2026-07-13",
     "expires": "2026-08-12",
     "photo": ""
@@ -478,7 +467,7 @@
     "group": "",
     "phrase": "",
     "banner": 8,
-    "card": 43,
+    "card": 42,
     "added": "2026-07-29",
     "expires": "2026-08-28",
     "photo": ""
