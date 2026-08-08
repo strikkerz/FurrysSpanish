@@ -13,7 +13,7 @@
       "rank": "Owner",
       "group": "",
       "phrase": "",
-      "banner": 6,
+      "banner": 13,
       "card": 22
     },
     {
@@ -349,6 +349,10 @@
     {
       "cell": 2,
       "phrase": "https://furryspanish.carrd.co"
+    },
+    {
+      "cell": 3,
+      "phrase": "https://discord.gg/eEMKJfVAE4"
     }
   ]
 }
