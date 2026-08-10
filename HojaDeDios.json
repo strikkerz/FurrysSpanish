@@ -347,12 +347,24 @@
   ],
   "ads": [
     {
+      "cell": 1,
+      "phrase": "https://carmesi115.gumroad.com/l/VRchatRanksystem"
+    },
+    {
       "cell": 2,
       "phrase": "https://furryspanish.carrd.co"
     },
     {
       "cell": 3,
       "phrase": "https://discord.gg/eEMKJfVAE4"
+    },
+    {
+      "cell": 4,
+      "phrase": "https://pivrhome.com/"
+    },
+    {
+      "cell": 5,
+      "phrase": "https://www.tiktok.com/@uvitadubs?is_from_webapp=1&sender_device=pc"
     }
   ]
 }
