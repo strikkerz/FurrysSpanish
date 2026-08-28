@@ -440,23 +440,12 @@
     "photo": ""
   },
   {
-    "id": "CatBryX",
-    "rank": "VIPFurrys",
-    "group": "",
-    "phrase": "",
-    "banner": 8,
-    "card": 40,
-    "added": "2026-07-07",
-    "expires": "2026-08-06",
-    "photo": ""
-  },
-  {
     "id": "-Widow-",
     "rank": "VIPFurrys",
     "group": "",
     "phrase": "Pareja de DeruDeru",
     "banner": 8,
-    "card": 41,
+    "card": 40,
     "added": "2026-07-13",
     "expires": "2026-08-12",
     "photo": ""
@@ -467,7 +456,7 @@
     "group": "",
     "phrase": "",
     "banner": 8,
-    "card": 42,
+    "card": 41,
     "added": "2026-07-29",
     "expires": "2026-08-28",
     "photo": ""
@@ -478,7 +467,7 @@
     "group": "",
     "phrase": "https://www.tiktok.com/@uvitadubs?is_from_webapp=1&sender_device=pc",
     "banner": 4,
-    "card": 43,
+    "card": 42,
     "added": "2026-08-10",
     "expires": "2027-09-09",
     "photo": ""
@@ -489,7 +478,7 @@
     "group": "",
     "phrase": "",
     "banner": 8,
-    "card": 44,
+    "card": 43,
     "added": "2026-08-15",
     "expires": "2026-09-14",
     "photo": ""
@@ -500,7 +489,7 @@
     "group": "",
     "phrase": "https://pivrhome.com/",
     "banner": 4,
-    "card": 45,
+    "card": 44,
     "added": "2026-08-15",
     "expires": "2026-09-14",
     "photo": ""
@@ -511,7 +500,7 @@
     "group": "",
     "phrase": "",
     "banner": 8,
-    "card": 46,
+    "card": 45,
     "added": "2026-08-23",
     "expires": "2026-09-22",
     "photo": ""

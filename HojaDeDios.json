@@ -321,20 +321,12 @@
       "card": 39
     },
     {
-      "id": "CatBryX",
-      "rank": "VIPFurrys",
-      "group": "",
-      "phrase": "",
-      "banner": 8,
-      "card": 40
-    },
-    {
       "id": "-Widow-",
       "rank": "VIPFurrys",
       "group": "",
       "phrase": "Pareja de DeruDeru",
       "banner": 8,
-      "card": 41
+      "card": 40
     },
     {
       "id": "Angel229",
@@ -342,7 +334,7 @@
       "group": "",
       "phrase": "",
       "banner": 8,
-      "card": 42
+      "card": 41
     },
     {
       "id": "Uvita Dubs",
@@ -350,7 +342,7 @@
       "group": "",
       "phrase": "https://www.tiktok.com/@uvitadubs?is_from_webapp=1&sender_device=pc",
       "banner": 4,
-      "card": 43
+      "card": 42
     },
     {
       "id": "Kaissers",
@@ -358,7 +350,7 @@
       "group": "",
       "phrase": "",
       "banner": 8,
-      "card": 44
+      "card": 43
     },
     {
       "id": "PichuJef",
@@ -366,7 +358,7 @@
       "group": "",
       "phrase": "https://pivrhome.com/",
       "banner": 4,
-      "card": 45
+      "card": 44
     },
     {
       "id": "Pixineko",
@@ -374,7 +366,7 @@
       "group": "",
       "phrase": "",
       "banner": 8,
-      "card": 46
+      "card": 45
     }
   ],
   "ads": [
