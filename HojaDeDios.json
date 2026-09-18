@@ -1,5 +1,390 @@
 {
-  "users": [],
+  "users": [
+    {
+      "id": "ArtCarmesiStudio",
+      "rank": "Owner",
+      "group": "",
+      "phrase": "https://dioscarmesi.github.io/html/commission.html",
+      "banner": 1,
+      "card": 1
+    },
+    {
+      "id": "N y x ღ",
+      "rank": "Owner",
+      "group": "",
+      "phrase": "",
+      "banner": 80,
+      "card": 22
+    },
+    {
+      "id": "RuzuChan",
+      "rank": "Co-Fundador",
+      "group": "",
+      "phrase": "",
+      "banner": 48,
+      "card": 2
+    },
+    {
+      "id": "GUILEAS",
+      "rank": "Mod",
+      "group": "",
+      "phrase": "",
+      "banner": 11,
+      "card": 23
+    },
+    {
+      "id": "DenkiKitsune",
+      "rank": "Mod",
+      "group": "",
+      "phrase": "",
+      "banner": 11,
+      "card": 24
+    },
+    {
+      "id": "Frezzco",
+      "rank": "Mod",
+      "group": "",
+      "phrase": "",
+      "banner": 11,
+      "card": 25
+    },
+    {
+      "id": "Shumaru",
+      "rank": "Mod",
+      "group": "",
+      "phrase": "",
+      "banner": 11,
+      "card": 26
+    },
+    {
+      "id": "Strikkerz'",
+      "rank": "Owner",
+      "group": "",
+      "phrase": "",
+      "banner": 12,
+      "card": 27
+    },
+    {
+      "id": "Venator Prime",
+      "rank": "Mod",
+      "group": "",
+      "phrase": "",
+      "banner": 11,
+      "card": 28
+    },
+    {
+      "id": "leitoxs",
+      "rank": "Mod",
+      "group": "",
+      "phrase": "",
+      "banner": 11,
+      "card": 29
+    },
+    {
+      "id": "Κarurosu",
+      "rank": "Mod",
+      "group": "",
+      "phrase": "",
+      "banner": 11,
+      "card": 30
+    },
+    {
+      "id": "нσѕнι",
+      "rank": "Mod",
+      "group": "",
+      "phrase": "",
+      "banner": 11,
+      "card": 31
+    },
+    {
+      "id": "Chaos Spectrum",
+      "rank": "Group",
+      "group": "Entity",
+      "phrase": "",
+      "banner": 5,
+      "card": 3
+    },
+    {
+      "id": "Miizuho-",
+      "rank": "Group",
+      "group": "Entity",
+      "phrase": "",
+      "banner": 5,
+      "card": 4
+    },
+    {
+      "id": "MotherAsmodeus",
+      "rank": "Group",
+      "group": "Entity",
+      "phrase": "",
+      "banner": 5,
+      "card": 5
+    },
+    {
+      "id": "Nath Kohai",
+      "rank": "Group",
+      "group": "Entity",
+      "phrase": "",
+      "banner": 5,
+      "card": 6
+    },
+    {
+      "id": "S K Ÿ E",
+      "rank": "Group",
+      "group": "Entity",
+      "phrase": "",
+      "banner": 5,
+      "card": 7
+    },
+    {
+      "id": "VaKass",
+      "rank": "Group",
+      "group": "Entity",
+      "phrase": "",
+      "banner": 5,
+      "card": 8
+    },
+    {
+      "id": "WolfDaver",
+      "rank": "Group",
+      "group": "Entity",
+      "phrase": "",
+      "banner": 5,
+      "card": 9
+    },
+    {
+      "id": "izayoiiiisan",
+      "rank": "Group",
+      "group": "Entity",
+      "phrase": "",
+      "banner": 5,
+      "card": 10
+    },
+    {
+      "id": "ღFLAREBEASTღ",
+      "rank": "Group",
+      "group": "Entity",
+      "phrase": "",
+      "banner": 5,
+      "card": 11
+    },
+    {
+      "id": "GALEON10 d7d9",
+      "rank": "Group",
+      "group": "ELIXIR",
+      "phrase": "",
+      "banner": 10,
+      "card": 12
+    },
+    {
+      "id": "Lettersmood 5358",
+      "rank": "Group",
+      "group": "ELIXIR",
+      "phrase": "",
+      "banner": 10,
+      "card": 13
+    },
+    {
+      "id": "Phantom Reizack",
+      "rank": "Group",
+      "group": "ELIXIR",
+      "phrase": "",
+      "banner": 10,
+      "card": 14
+    },
+    {
+      "id": "Underharley",
+      "rank": "Group",
+      "group": "ELIXIR",
+      "phrase": "",
+      "banner": 10,
+      "card": 15
+    },
+    {
+      "id": "Yutaura",
+      "rank": "Group",
+      "group": "ELIXIR",
+      "phrase": "",
+      "banner": 10,
+      "card": 16
+    },
+    {
+      "id": "nyxntx",
+      "rank": "Group",
+      "group": "ELIXIR",
+      "phrase": "",
+      "banner": 10,
+      "card": 17
+    },
+    {
+      "id": "poisonliz",
+      "rank": "Group",
+      "group": "ELIXIR",
+      "phrase": "",
+      "banner": 10,
+      "card": 18
+    },
+    {
+      "id": "tori_cole",
+      "rank": "Group",
+      "group": "ELIXIR",
+      "phrase": "",
+      "banner": 10,
+      "card": 19
+    },
+    {
+      "id": "ºALEXIS---XD-º",
+      "rank": "Group",
+      "group": "ELIXIR",
+      "phrase": "",
+      "banner": 10,
+      "card": 20
+    },
+    {
+      "id": "EjemploVacio",
+      "rank": "Friends",
+      "group": "",
+      "phrase": "",
+      "banner": 13,
+      "card": 32
+    },
+    {
+      "id": "DeruDeruKoi",
+      "rank": "Mod",
+      "group": "",
+      "phrase": "",
+      "banner": 14,
+      "card": 21
+    },
+    {
+      "id": "Akzara",
+      "rank": "Mod",
+      "group": "",
+      "phrase": "",
+      "banner": 11,
+      "card": 0
+    },
+    {
+      "id": "VACIO",
+      "rank": "DJ",
+      "group": "",
+      "phrase": "",
+      "banner": 11,
+      "card": 33
+    },
+    {
+      "id": "RensellaVT",
+      "rank": "Guest Dancer",
+      "group": "",
+      "phrase": "",
+      "banner": 11,
+      "card": 34
+    },
+    {
+      "id": "Shirou1711",
+      "rank": "Guest Dancer",
+      "group": "",
+      "phrase": "",
+      "banner": 11,
+      "card": 35
+    },
+    {
+      "id": "NicaGhost",
+      "rank": "VIPFurrys",
+      "group": "",
+      "phrase": "",
+      "banner": 8,
+      "card": 36
+    },
+    {
+      "id": "Luckγ",
+      "rank": "VIPFurrys",
+      "group": "",
+      "phrase": "",
+      "banner": 8,
+      "card": 37
+    },
+    {
+      "id": "Morgan05",
+      "rank": "VIPFurrys",
+      "group": "",
+      "phrase": "",
+      "banner": 8,
+      "card": 38
+    },
+    {
+      "id": "ALEX ×͜×",
+      "rank": "VIPFurrys",
+      "group": "",
+      "phrase": "",
+      "banner": 8,
+      "card": 39
+    },
+    {
+      "id": "-Widow-",
+      "rank": "VIPFurrys",
+      "group": "",
+      "phrase": "Pareja de DeruDeru",
+      "banner": 8,
+      "card": 40
+    },
+    {
+      "id": "Angel229",
+      "rank": "VIPFurrys",
+      "group": "",
+      "phrase": "",
+      "banner": 8,
+      "card": 41
+    },
+    {
+      "id": "Uvita Dubs",
+      "rank": "VIPFurrys",
+      "group": "",
+      "phrase": "https://www.tiktok.com/@uvitadubs?is_from_webapp=1&sender_device=pc",
+      "banner": 4,
+      "card": 42
+    },
+    {
+      "id": "Kaissers",
+      "rank": "VIPFurrys",
+      "group": "",
+      "phrase": "",
+      "banner": 11,
+      "card": 43
+    },
+    {
+      "id": "PichuJef",
+      "rank": "VIPFurrys",
+      "group": "",
+      "phrase": "https://pivrhome.com/",
+      "banner": 4,
+      "card": 44
+    },
+    {
+      "id": "Pixineko",
+      "rank": "VIPFurrys",
+      "group": "",
+      "phrase": "",
+      "banner": 8,
+      "card": 45
+    },
+    {
+      "id": "Nikoky",
+      "rank": "Group",
+      "group": "NoCTari",
+      "phrase": "",
+      "banner": 13,
+      "card": 46
+    },
+    {
+      "id": "༺ ᴠᴏʟᴋɪɪ ༻",
+      "rank": "Group",
+      "group": "Entity",
+      "phrase": "",
+      "banner": 5,
+      "card": 47
+    }
+  ],
   "ads": [
     {
       "cell": 1,
