@@ -399,6 +399,14 @@
       "phrase": "amigo 𝐀𝐤𝐳𝐚𝐫𝐚",
       "banner": 8,
       "card": 48
+    },
+    {
+      "id": "SHOTGUN_KIROZ",
+      "rank": "Group",
+      "group": "Amigos VIP",
+      "phrase": "amigo de GUILEAS",
+      "banner": 8,
+      "card": 49
     }
   ],
   "ads": [

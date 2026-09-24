@@ -548,5 +548,16 @@
     "added": "2026-09-24",
     "expires": "2026-10-24",
     "photo": ""
+  },
+  {
+    "id": "SHOTGUN_KIROZ",
+    "rank": "Group",
+    "group": "Amigos VIP",
+    "phrase": "amigo de GUILEAS",
+    "banner": 8,
+    "card": 49,
+    "added": "2026-09-24",
+    "expires": "2026-10-24",
+    "photo": ""
   }
 ]
