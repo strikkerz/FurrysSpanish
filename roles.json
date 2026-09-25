@@ -559,5 +559,16 @@
     "added": "2026-09-24",
     "expires": "2026-10-24",
     "photo": ""
+  },
+  {
+    "id": "boebe",
+    "rank": "Dancer",
+    "group": "",
+    "phrase": "",
+    "banner": 8,
+    "card": 51,
+    "added": "2026-09-25",
+    "expires": "2026-10-25",
+    "photo": ""
   }
 ]
