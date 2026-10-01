@@ -37,7 +37,7 @@
     "rank": "Mod",
     "group": "",
     "phrase": "",
-    "banner": 11,
+    "banner": 15,
     "card": 23,
     "added": "2026-06-24",
     "expires": "2050-07-24",
@@ -82,7 +82,7 @@
     "group": "",
     "phrase": "",
     "banner": 12,
-    "card": 27,
+    "card": 14,
     "added": "2026-06-24",
     "expires": "2027-03-13",
     "photo": ""
@@ -525,6 +525,61 @@
     "card": 47,
     "added": "2026-09-12",
     "expires": "2027-12-12",
+    "photo": ""
+  },
+  {
+    "id": "＋Aquiles_wolff＋",
+    "rank": "Group",
+    "group": "Amigos VIP",
+    "phrase": "",
+    "banner": 8,
+    "card": 46,
+    "added": "2026-09-18",
+    "expires": "2026-10-18",
+    "photo": ""
+  },
+  {
+    "id": "KorZix",
+    "rank": "Group",
+    "group": "Amigos VIP",
+    "phrase": "amigo 𝐀𝐤𝐳𝐚𝐫𝐚",
+    "banner": 8,
+    "card": 48,
+    "added": "2026-09-24",
+    "expires": "2026-10-24",
+    "photo": ""
+  },
+  {
+    "id": "SHOTGUN_KIROZ",
+    "rank": "Group",
+    "group": "Amigos VIP",
+    "phrase": "amigo de GUILEAS",
+    "banner": 8,
+    "card": 49,
+    "added": "2026-09-24",
+    "expires": "2026-10-24",
+    "photo": ""
+  },
+  {
+    "id": "boebe",
+    "rank": "VIPFurrys",
+    "group": "",
+    "phrase": "",
+    "banner": 11,
+    "card": 50,
+    "added": "2026-09-25",
+    "expires": "2026-10-25",
+    "photo": ""
+  },
+  {
+    "id": "Apologyze12",
+    "rank": "VIPFurrys",
+    "group": "",
+    "phrase": "amigo vip de boebe",
+    "banner": 11,
+    "card": 27,
+    "added": "2026-09-26",
+    "expires": "2026-10-26",
     "photo": ""
   }
 ]
