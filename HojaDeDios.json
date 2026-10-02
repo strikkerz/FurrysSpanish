@@ -322,10 +322,10 @@
     },
     {
       "id": "-Widow-",
-      "rank": "VIPFurrys",
+      "rank": "Mod",
       "group": "",
       "phrase": "Pareja de DeruDeru",
-      "banner": 8,
+      "banner": 11,
       "card": 40
     },
     {
@@ -423,6 +423,30 @@
       "phrase": "amigo vip de boebe",
       "banner": 11,
       "card": 27
+    },
+    {
+      "id": "P U L P O",
+      "rank": "Mod",
+      "group": "",
+      "phrase": "",
+      "banner": 11,
+      "card": 51
+    },
+    {
+      "id": "Efluvios",
+      "rank": "Mod",
+      "group": "",
+      "phrase": "",
+      "banner": 11,
+      "card": 52
+    },
+    {
+      "id": "FOXYFUNDAY",
+      "rank": "Mod",
+      "group": "",
+      "phrase": "",
+      "banner": 11,
+      "card": 53
     }
   ],
   "ads": [

@@ -441,10 +441,10 @@
   },
   {
     "id": "-Widow-",
-    "rank": "VIPFurrys",
+    "rank": "Mod",
     "group": "",
     "phrase": "Pareja de DeruDeru",
-    "banner": 8,
+    "banner": 11,
     "card": 40,
     "added": "2026-07-13",
     "expires": "2026-08-12",
@@ -580,6 +580,39 @@
     "card": 27,
     "added": "2026-09-26",
     "expires": "2026-10-26",
+    "photo": ""
+  },
+  {
+    "id": "P U L P O",
+    "rank": "Mod",
+    "group": "",
+    "phrase": "",
+    "banner": 11,
+    "card": 51,
+    "added": "2026-10-02",
+    "expires": "2026-11-01",
+    "photo": ""
+  },
+  {
+    "id": "Efluvios",
+    "rank": "Mod",
+    "group": "",
+    "phrase": "",
+    "banner": 11,
+    "card": 52,
+    "added": "2026-10-02",
+    "expires": "2026-11-01",
+    "photo": ""
+  },
+  {
+    "id": "FOXYFUNDAY",
+    "rank": "Mod",
+    "group": "",
+    "phrase": "",
+    "banner": 11,
+    "card": 53,
+    "added": "2026-10-02",
+    "expires": "2026-11-01",
     "photo": ""
   }
 ]
