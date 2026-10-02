@@ -16,7 +16,7 @@
     "group": "",
     "phrase": "",
     "banner": 80,
-    "card": 22,
+    "card": 23,
     "added": "2026-06-24",
     "expires": "2027-04-10",
     "photo": ""
@@ -38,7 +38,7 @@
     "group": "",
     "phrase": "",
     "banner": 15,
-    "card": 23,
+    "card": 24,
     "added": "2026-06-24",
     "expires": "2050-07-24",
     "photo": ""
@@ -49,7 +49,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 24,
+    "card": 25,
     "added": "2026-06-24",
     "expires": "2050-07-24",
     "photo": ""
@@ -60,7 +60,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 25,
+    "card": 26,
     "added": "2026-06-24",
     "expires": "2050-07-24",
     "photo": ""
@@ -71,7 +71,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 26,
+    "card": 27,
     "added": "2026-06-24",
     "expires": "2050-07-24",
     "photo": ""
@@ -82,7 +82,7 @@
     "group": "",
     "phrase": "",
     "banner": 12,
-    "card": 14,
+    "card": 15,
     "added": "2026-06-24",
     "expires": "2027-03-13",
     "photo": ""
@@ -93,7 +93,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 28,
+    "card": 29,
     "added": "2026-06-24",
     "expires": "2050-07-24",
     "photo": ""
@@ -104,7 +104,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 29,
+    "card": 30,
     "added": "2026-06-24",
     "expires": "2050-07-24",
     "photo": ""
@@ -115,7 +115,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 30,
+    "card": 31,
     "added": "2026-06-24",
     "expires": "2050-07-24",
     "photo": ""
@@ -126,7 +126,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 31,
+    "card": 32,
     "added": "2026-06-24",
     "expires": "2050-07-24",
     "photo": ""
@@ -258,7 +258,7 @@
     "group": "ELIXIR",
     "phrase": "",
     "banner": 10,
-    "card": 14,
+    "card": 15,
     "added": "2026-06-24",
     "expires": "2028-07-24",
     "photo": ""
@@ -269,24 +269,13 @@
     "group": "ELIXIR",
     "phrase": "",
     "banner": 10,
-    "card": 15,
-    "added": "2026-06-24",
-    "expires": "2028-07-24",
-    "photo": ""
-  },
-  {
-    "id": "Yutaura",
-    "rank": "Group",
-    "group": "Ko1to",
-    "phrase": "",
-    "banner": 16,
     "card": 16,
     "added": "2026-06-24",
     "expires": "2028-07-24",
     "photo": ""
   },
   {
-    "id": "nyxntx",
+    "id": "Yutaura",
     "rank": "Group",
     "group": "ELIXIR",
     "phrase": "",
@@ -297,7 +286,7 @@
     "photo": ""
   },
   {
-    "id": "poisonliz",
+    "id": "nyxntx",
     "rank": "Group",
     "group": "ELIXIR",
     "phrase": "",
@@ -308,7 +297,7 @@
     "photo": ""
   },
   {
-    "id": "tori_cole",
+    "id": "poisonliz",
     "rank": "Group",
     "group": "ELIXIR",
     "phrase": "",
@@ -319,7 +308,7 @@
     "photo": ""
   },
   {
-    "id": "ºALEXIS---XD-º",
+    "id": "tori_cole",
     "rank": "Group",
     "group": "ELIXIR",
     "phrase": "",
@@ -330,12 +319,23 @@
     "photo": ""
   },
   {
+    "id": "ºALEXIS---XD-º",
+    "rank": "Group",
+    "group": "ELIXIR",
+    "phrase": "",
+    "banner": 10,
+    "card": 21,
+    "added": "2026-06-24",
+    "expires": "2028-07-24",
+    "photo": ""
+  },
+  {
     "id": "EjemploVacio",
     "rank": "Friends",
     "group": "",
     "phrase": "",
     "banner": 13,
-    "card": 32,
+    "card": 33,
     "added": "2026-06-24",
     "expires": "2026-07-24",
     "photo": ""
@@ -346,7 +346,7 @@
     "group": "",
     "phrase": "",
     "banner": 14,
-    "card": 21,
+    "card": 22,
     "added": "2026-06-24",
     "expires": "2050-07-24",
     "photo": ""
@@ -368,7 +368,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 33,
+    "card": 34,
     "added": "2026-06-24",
     "expires": "2026-07-24",
     "photo": ""
@@ -379,7 +379,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 34,
+    "card": 35,
     "added": "2026-06-24",
     "expires": "2026-07-24",
     "photo": ""
@@ -390,7 +390,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 35,
+    "card": 36,
     "added": "2026-06-24",
     "expires": "2026-07-24",
     "photo": ""
@@ -401,7 +401,7 @@
     "group": "",
     "phrase": "",
     "banner": 8,
-    "card": 36,
+    "card": 37,
     "added": "2026-07-01",
     "expires": "2026-08-31",
     "photo": ""
@@ -412,7 +412,7 @@
     "group": "",
     "phrase": "",
     "banner": 8,
-    "card": 37,
+    "card": 38,
     "added": "2026-07-01",
     "expires": "2026-08-01",
     "photo": ""
@@ -423,7 +423,7 @@
     "group": "",
     "phrase": "",
     "banner": 8,
-    "card": 38,
+    "card": 39,
     "added": "2026-07-03",
     "expires": "2026-08-02",
     "photo": ""
@@ -434,7 +434,7 @@
     "group": "",
     "phrase": "",
     "banner": 8,
-    "card": 39,
+    "card": 40,
     "added": "2026-07-03",
     "expires": "2026-08-02",
     "photo": ""
@@ -445,7 +445,7 @@
     "group": "",
     "phrase": "Pareja de DeruDeru",
     "banner": 11,
-    "card": 40,
+    "card": 41,
     "added": "2026-07-13",
     "expires": "2026-08-12",
     "photo": ""
@@ -456,7 +456,7 @@
     "group": "",
     "phrase": "",
     "banner": 8,
-    "card": 41,
+    "card": 42,
     "added": "2026-07-29",
     "expires": "2026-08-28",
     "photo": ""
@@ -467,7 +467,7 @@
     "group": "",
     "phrase": "https://www.tiktok.com/@uvitadubs?is_from_webapp=1&sender_device=pc",
     "banner": 4,
-    "card": 42,
+    "card": 43,
     "added": "2026-08-10",
     "expires": "2027-09-09",
     "photo": ""
@@ -478,7 +478,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 43,
+    "card": 44,
     "added": "2026-08-15",
     "expires": "2026-09-14",
     "photo": ""
@@ -489,9 +489,9 @@
     "group": "",
     "phrase": "https://pivrhome.com/",
     "banner": 4,
-    "card": 44,
+    "card": 45,
     "added": "2026-08-15",
-    "expires": "2026-10-14",
+    "expires": "2026-09-14",
     "photo": ""
   },
   {
@@ -500,7 +500,7 @@
     "group": "",
     "phrase": "",
     "banner": 8,
-    "card": 45,
+    "card": 46,
     "added": "2026-08-23",
     "expires": "2026-09-22",
     "photo": ""
@@ -511,7 +511,7 @@
     "group": "NoCTari",
     "phrase": "",
     "banner": 13,
-    "card": 46,
+    "card": 48,
     "added": "2026-08-31",
     "expires": "2026-09-30",
     "photo": ""
@@ -522,7 +522,7 @@
     "group": "Entity",
     "phrase": "",
     "banner": 5,
-    "card": 47,
+    "card": 49,
     "added": "2026-09-12",
     "expires": "2027-12-12",
     "photo": ""
@@ -533,7 +533,7 @@
     "group": "Amigos VIP",
     "phrase": "",
     "banner": 8,
-    "card": 46,
+    "card": 48,
     "added": "2026-09-18",
     "expires": "2026-10-18",
     "photo": ""
@@ -544,7 +544,7 @@
     "group": "Amigos VIP",
     "phrase": "amigo 𝐀𝐤𝐳𝐚𝐫𝐚",
     "banner": 8,
-    "card": 48,
+    "card": 50,
     "added": "2026-09-24",
     "expires": "2026-10-24",
     "photo": ""
@@ -555,7 +555,7 @@
     "group": "Amigos VIP",
     "phrase": "amigo de GUILEAS",
     "banner": 8,
-    "card": 49,
+    "card": 51,
     "added": "2026-09-24",
     "expires": "2026-10-24",
     "photo": ""
@@ -566,7 +566,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 50,
+    "card": 52,
     "added": "2026-09-25",
     "expires": "2026-10-25",
     "photo": ""
@@ -577,7 +577,7 @@
     "group": "",
     "phrase": "amigo vip de boebe",
     "banner": 11,
-    "card": 27,
+    "card": 28,
     "added": "2026-09-26",
     "expires": "2026-10-26",
     "photo": ""
@@ -588,7 +588,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 51,
+    "card": 53,
     "added": "2026-10-02",
     "expires": "2026-11-01",
     "photo": ""
@@ -599,7 +599,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 52,
+    "card": 54,
     "added": "2026-10-02",
     "expires": "2026-11-01",
     "photo": ""
@@ -610,7 +610,7 @@
     "group": "",
     "phrase": "",
     "banner": 11,
-    "card": 53,
+    "card": 55,
     "added": "2026-10-02",
     "expires": "2026-11-01",
     "photo": ""
