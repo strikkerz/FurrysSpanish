@@ -1,0 +1,78 @@
+{
+  "titulo": "Novedades de Furry Spanish",
+  "version": "V62",
+  "actualizado": "2026-10-05",
+  "categorias": [
+    {
+      "nombre": "Nuevo",
+      "color": "#AFA9EC",
+      "entradas": [
+        { "fecha": "2026-10-04", "texto": "Menú del mundo: ábrelo con el stick o la flecha hacia arriba. 14 apps en 6 idiomas: teletransporte, opciones de gráficos, movimiento, interacción, juegos, decoración, audio y video, reglamento, créditos y registro de entradas." },
+        { "fecha": "2026-10-04", "texto": "Puedes elegir cómo se abre el menú (mantener arriba o arriba-abajo-arriba) desde «Idioma y menú»." },
+        { "fecha": "2026-10-04", "texto": "Mesa de Uno con reglas configurables y guía. Se enciende o apaga desde el menú, en Juegos." },
+        { "fecha": "2026-10-04", "texto": "Cartel de novedades: aquí verás los cambios del mundo sin tener que esperar a una actualización." },
+        { "fecha": "2026-10-05", "texto": "Cortinas automáticas en el salón: se abren solas al acercarte." },
+        { "fecha": "2026-10-04", "texto": "Marcadores nuevos para dibujar, con tablero para recolocarlos y limpiar los dibujos." },
+        { "fecha": "2026-10-04", "texto": "Botón para devolver los collares libres a su sitio." }
+      ]
+    },
+    {
+      "nombre": "Bar y café",
+      "color": "#EF9F27",
+      "entradas": [
+        { "fecha": "2026-10-02", "texto": "Zona de bebidas renovada: prepara tragos y la borrachera llega poco a poco según lo que bebas." },
+        { "fecha": "2026-10-02", "texto": "Cafetería con máquina de café completa: moler, extraer, espumar y servir en taza." },
+        { "fecha": "2026-10-04", "texto": "Volumen propio para la música del bar y el café en el menú (Audio y video)." }
+      ]
+    },
+    {
+      "nombre": "Salas y espacios",
+      "color": "#4FC3F7",
+      "entradas": [
+        { "fecha": "2026-10-04", "texto": "Salas VIP A, B y C renovadas: puerta con timbre y panel de control dentro de la sala." },
+        { "fecha": "2026-10-03", "texto": "Espejos nuevos con panel de ajustes (calidad, transparencia y fondo)." },
+        { "fecha": "2026-10-03", "texto": "Cabinas más ligeras: su lista solo se actualiza cuando estás dentro." },
+        { "fecha": "2026-09-30", "texto": "Videoplayers: solo se mantiene encendido el de la sala en la que estás; los demás descansan." },
+        { "fecha": "2026-10-02", "texto": "Cuadros VIP y anuncios del mundo actualizados desde internet, sin tener que subir el mapa." }
+      ]
+    },
+    {
+      "nombre": "Rendimiento",
+      "color": "#7DE08A",
+      "entradas": [
+        { "fecha": "2026-10-03", "texto": "Voz por zonas más ligera en PC y en Quest: se recalcula solo lo necesario cuando alguien entra o sale." },
+        { "fecha": "2026-10-03", "texto": "Rangos y banners: ya no se reprocesan si no hubo cambios, y en Quest se revisan cada 10 minutos." },
+        { "fecha": "2026-10-03", "texto": "Movimiento optimizado: sprint, doble salto, vuelo, nado y escalada gastan menos." },
+        { "fecha": "2026-10-02", "texto": "Café y zona de bebidas solo trabajan para quien está dentro." },
+        { "fecha": "2026-10-03", "texto": "Modo de protección: si la red se satura, el mundo se pausa y luego se recupera solo, sincronizando de nuevo con los demás." },
+        { "fecha": "2026-10-04", "texto": "En Quest, las opciones que solo funcionan en PC aparecen bloqueadas para no gastar de más." },
+        { "fecha": "2026-10-05", "texto": "Menos mensajes internos de los videoplayers: menos carga al entrar a una sala con TV." }
+      ]
+    },
+    {
+      "nombre": "Seguridad",
+      "color": "#F06292",
+      "entradas": [
+        { "fecha": "2026-09-30", "texto": "Panel de consentimiento: tú decides si se registran tus datos de visita; puedes retirar el permiso cuando quieras." },
+        { "fecha": "2026-09-30", "texto": "Zonas privadas protegidas: quien entra sin permiso es sacado y el staff recibe un aviso." },
+        { "fecha": "2026-10-03", "texto": "Protección contra abusos de red en los botones e interacciones del mundo." }
+      ]
+    },
+    {
+      "nombre": "Retirado",
+      "color": "#A3A3AB",
+      "entradas": [
+        { "fecha": "2026-10-04", "texto": "Beer pong." },
+        { "fecha": "2026-10-04", "texto": "Panel de opciones antiguo: todo está ahora en el menú del mundo." },
+        { "fecha": "2026-10-04", "texto": "Sistemas antiguos de terceros (lápices, cuartos y collares anteriores), sustituidos por versiones propias." }
+      ]
+    },
+    {
+      "nombre": "Aviso",
+      "color": "#F5C451",
+      "entradas": [
+        { "fecha": "2026-10-05", "texto": "Si arriba ves una versión distinta a la tuya, abre una instancia nueva para tener la última." }
+      ]
+    }
+  ]
+}
