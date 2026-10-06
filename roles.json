@@ -603,5 +603,16 @@
     "added": "2026-10-02",
     "expires": "2026-11-01",
     "photo": ""
+  },
+  {
+    "id": "vaselinaugu",
+    "rank": "Dancer",
+    "group": "Ko1to",
+    "phrase": "",
+    "banner": 16,
+    "card": 0,
+    "added": "2026-10-06",
+    "expires": "2026-11-05",
+    "photo": ""
   }
 ]
