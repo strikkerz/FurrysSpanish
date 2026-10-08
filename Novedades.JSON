@@ -1,7 +1,7 @@
 {
   "titulo": "Novedades de Furry Spanish",
   "version": "V62",
-  "actualizado": "2026-10-06",
+  "actualizado": "2026-10-07",
   "categorias": [
     {
       "nombre": "Nuevo",
@@ -71,6 +71,8 @@
       "nombre": "Aviso",
       "color": "#F5C451",
       "entradas": [
+        { "fecha": "2026-10-07", "texto": "Se esta haciendo un Fix de las cabañas." },
+        { "fecha": "2026-10-07", "texto": "Se esta trabajando en los sistemas Vips del mapa algunas funciones seran gratuitas de forma temporal" },
         { "fecha": "2026-10-06", "texto": "Se Actualizo y se arreglo el juego de Uno" },
         { "fecha": "2026-10-05", "texto": "Si arriba ves una versión distinta a la tuya, abre una instancia nueva para tener la última." }
       ]
