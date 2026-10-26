@@ -58,7 +58,7 @@
     },
     {
       "id": "Strikkerz'",
-      "rank": "Owner",
+      "rank": "Mod",
       "group": "",
       "phrase": "",
       "banner": 11,
@@ -487,22 +487,6 @@
       "phrase": "",
       "banner": 11,
       "card": 59
-    },
-    {
-      "id": "๛Ryu๛",
-      "rank": "Dancer",
-      "group": "ELIXIR",
-      "phrase": "",
-      "banner": 10,
-      "card": 0
-    },
-    {
-      "id": "Lewanygg",
-      "rank": "Dancer",
-      "group": "ELIXIR",
-      "phrase": "",
-      "banner": 10,
-      "card": 0
     }
   ],
   "ads": [
