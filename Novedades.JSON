@@ -1,7 +1,7 @@
 {
   "titulo": "Novedades de Furry Spanish",
   "version": "V62",
-  "actualizado": "2026-10-31",
+  "actualizado": "2026-11-02",
   "categorias": [
     {
       "nombre": "Nuevo",
@@ -29,6 +29,13 @@
         { "fecha": "2026-09-30", "texto": "Panel de consentimiento: tú decides si se registran tus datos de visita; puedes retirar el permiso cuando quieras." },
         { "fecha": "2026-09-30", "texto": "Zonas privadas protegidas: quien entra sin permiso es sacado y el staff recibe un aviso." },
         { "fecha": "2026-10-03", "texto": "Protección contra abusos de red en los botones e interacciones del mundo." }
+      ]
+    },
+    {
+      "nombre": "Actualización del mapa",
+      "color": "#FF6FAE",
+      "entradas": [
+        { "fecha": "2026-11-02", "texto": "Beta Tienda De Furry spanish" }
       ]
     }
   ]
