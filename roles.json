@@ -255,9 +255,9 @@
   {
     "id": "Underharley",
     "rank": "Group",
-    "group": "ELIXIR",
+    "group": "Entity",
     "phrase": "",
-    "banner": 10,
+    "banner": 5,
     "card": 17,
     "added": "2026-06-24",
     "expires": "2028-07-24",
