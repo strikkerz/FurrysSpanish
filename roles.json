@@ -669,5 +669,16 @@
     "added": "2026-11-05",
     "expires": "2026-12-05",
     "photo": ""
+  },
+  {
+    "id": "Lian_RK",
+    "rank": "Group",
+    "group": "ELIXIR",
+    "phrase": "",
+    "banner": 10,
+    "card": 0,
+    "added": "2026-11-05",
+    "expires": "2026-12-05",
+    "photo": ""
   }
 ]
