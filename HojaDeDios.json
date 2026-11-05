@@ -519,6 +519,14 @@
       "phrase": "",
       "banner": 10,
       "card": 60
+    },
+    {
+      "id": "gab_11",
+      "rank": "Group",
+      "group": "ELIXIR",
+      "phrase": "",
+      "banner": 10,
+      "card": 61
     }
   ],
   "ads": [

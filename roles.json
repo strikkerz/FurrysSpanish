@@ -713,5 +713,16 @@
     "added": "2026-11-05",
     "expires": "2026-12-05",
     "photo": ""
+  },
+  {
+    "id": "gab_11",
+    "rank": "Group",
+    "group": "ELIXIR",
+    "phrase": "",
+    "banner": 10,
+    "card": 61,
+    "added": "2026-11-05",
+    "expires": "2026-12-05",
+    "photo": ""
   }
 ]
