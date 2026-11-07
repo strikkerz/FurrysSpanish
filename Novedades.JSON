@@ -1,7 +1,7 @@
 {
   "titulo": "Novedades de Furry Spanish",
   "version": "V62",
-  "actualizado": "2026-11-06",
+  "actualizado": "2026-11-07",
   "categorias": [
     {
       "nombre": "Nuevo",
@@ -39,7 +39,6 @@
       "nombre": "Reportes",
       "color": "#B39DDB",
       "entradas": [
-        { "fecha": "2026-11-06", "texto": "Aclaraciones: los datos recopilados son únicamente para score de juegos, almacenamiento de items de pesca, preferencia de contenido vista por el cine y zonas populares del mapa (para eliminar o mejorar las que no se usan)" },
         { "fecha": "2026-11-06", "texto": "Les informamos que ya se ha resuelto el problema técnico en la zona del Mini Cine que impedía cargar y reproducir películas en el videoplayer.\n\nEl reproductor ya se encuentra funcionando con normalidad, por lo que pueden volver a colocar y disfrutar de sus vídeos y películas sin inconvenientes." },
         { "fecha": "2026-11-06", "texto": "Queremos informarles que hemos implementado nuevas limitaciones automáticas en la recolección de telemetría y datos de uso.\n\nEn cumplimiento con las normativas locales (como el RGPD), la recopilación de información y datos telemétricos se desactivará de forma automática para todos los usuarios ubicados en países de la Unión Europea." },
         { "fecha": "2026-11-06", "texto": "Les informamos que recientemente se realizó una corrección en el texto del apartado de privacidad. La versión anterior contenía texto autogenerado con inteligencia artificial utilizado provisionalmente como relleno (placeholder), el cual pudo haber causado malentendidos o inquietudes respecto al manejo de sus datos.\n\nQueremos darles total tranquilidad: no hay motivo de alarma. No se ha producido n" }
