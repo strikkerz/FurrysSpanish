@@ -1,15 +1,13 @@
 {
   "titulo": "Novedades de Furry Spanish",
   "version": "V62",
-  "actualizado": "2026-11-02",
+  "actualizado": "2026-11-06",
   "categorias": [
     {
       "nombre": "Nuevo",
       "color": "#AFA9EC",
       "entradas": [
-        { "fecha": "2026-10-31", "texto": "Mini Cine gracias por Cine VR Spanish" },
         { "fecha": "2026-10-31", "texto": "Se Fix/Agrego sistema de guardado de skybox (Ahora puedes bajar skybox en HD)" },
-        { "fecha": "2026-10-31", "texto": "Se agregaron mas Peces ahora son 500 para capturar. buena suerte!" },
         { "fecha": "2026-10-31", "texto": "Nuevo juego de Ajedrez Optimizado" }
       ]
     },
@@ -17,7 +15,6 @@
       "nombre": "Rendimiento",
       "color": "#7DE08A",
       "entradas": [
-        { "fecha": "2026-10-03", "texto": "Voz por zonas más ligera en PC y en Quest: se recalcula solo lo necesario cuando alguien entra o sale." },
         { "fecha": "2026-10-03", "texto": "Modo de protección: si la red se satura, el mundo se pausa y luego se recupera solo, sincronizando de nuevo con los demás." },
         { "fecha": "2026-10-05", "texto": "Menos mensajes internos de los videoplayers: menos carga al entrar a una sala con TV." }
       ]
@@ -36,6 +33,16 @@
       "color": "#FF6FAE",
       "entradas": [
         { "fecha": "2026-11-02", "texto": "Beta Tienda De Furry spanish" }
+      ]
+    },
+    {
+      "nombre": "Reportes",
+      "color": "#B39DDB",
+      "entradas": [
+        { "fecha": "2026-11-06", "texto": "Aclaraciones: los datos recopilados son únicamente para score de juegos, almacenamiento de items de pesca, preferencia de contenido vista por el cine y zonas populares del mapa (para eliminar o mejorar las que no se usan)" },
+        { "fecha": "2026-11-06", "texto": "Les informamos que ya se ha resuelto el problema técnico en la zona del Mini Cine que impedía cargar y reproducir películas en el videoplayer.\n\nEl reproductor ya se encuentra funcionando con normalidad, por lo que pueden volver a colocar y disfrutar de sus vídeos y películas sin inconvenientes." },
+        { "fecha": "2026-11-06", "texto": "Queremos informarles que hemos implementado nuevas limitaciones automáticas en la recolección de telemetría y datos de uso.\n\nEn cumplimiento con las normativas locales (como el RGPD), la recopilación de información y datos telemétricos se desactivará de forma automática para todos los usuarios ubicados en países de la Unión Europea." },
+        { "fecha": "2026-11-06", "texto": "Les informamos que recientemente se realizó una corrección en el texto del apartado de privacidad. La versión anterior contenía texto autogenerado con inteligencia artificial utilizado provisionalmente como relleno (placeholder), el cual pudo haber causado malentendidos o inquietudes respecto al manejo de sus datos.\n\nQueremos darles total tranquilidad: no hay motivo de alarma. No se ha producido n" }
       ]
     }
   ]
